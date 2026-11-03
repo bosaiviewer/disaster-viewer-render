@@ -1,0 +1,24 @@
+[
+  {
+    "id": "82021000010000015",
+    "name": "明法",
+    "riverCode": "820210000100",
+    "riverName": "子吉川",
+    "coords": [
+      39.31527777777777,
+      140.1011111111111
+    ],
+    "source": "https://www1.river.go.jp/cgi-bin/SiteInfoDetail.exe?ID=302101282209030"
+  },
+  {
+    "id": "82021000010000019",
+    "name": "二十六木橋",
+    "riverCode": "820210000100",
+    "riverName": "子吉川",
+    "coords": [
+      39.374722222222225,
+      140.06666666666666
+    ],
+    "source": "https://www1.river.go.jp/cgi-bin/SiteInfoDetail.exe?ID=302101282209050"
+  }
+]

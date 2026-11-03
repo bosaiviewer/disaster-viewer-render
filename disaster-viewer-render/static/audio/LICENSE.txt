@@ -1,0 +1,11 @@
+All WAV files were synthesized for this project. CC0 1.0.
+EEW: original sine-tone notification, not a broadcaster recording.
+Tsunami: phase-continuous FSK, 640/1024 Hz, 64 bit/s. Notification sequence only; not a valid EWS receiver-control frame or a broadcast recording.
+Specification reference: Radio Equipment Regulations, Article 9-3.
+https://laws.e-gov.go.jp/law/325M50080000018
+
+shaking-soft.wav: original quiet two-note sine notification, CC0 1.0.
+
+forecast-soft.wav: original gentle forecast chime, CC0.
+
+quake-prompt.wav, quake-source.wav, quake-info.wav: original notification chimes, CC0.

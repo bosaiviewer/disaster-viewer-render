@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="116" viewBox="0, 0, 336, 348">
+    <path d="M24 24 h 90 v 60 h -90 z"  fill="rgb(255,170,000)" stroke="none" opacity=".75" />
+    <path d="M24 84 h 90 v 60 h -90 z"  fill="rgb(170,170,170)" stroke="none" opacity=".75" />
+    <path d="M24 144 h 90 v 60 h -90 z" fill="rgb(000,065,255)" stroke="none" opacity=".75" />
+    <path d="M24 204 h 90 v 60 h -90 z" fill="rgb(160,210,255)" stroke="none" opacity=".75" />
+    <path d="M24 264 h 90 v 60 h -90 z" fill="rgb(242,242,255)" stroke="none" opacity=".75" />
+    <path d="M24 24 h 90 v 300 h -90 z M24 84 h 90 M24 144 h 90 M24 204 h 90 M24 264 h 90" fill="none" stroke="#444" stroke-width="2" />
+    <text x="126" y="70" font-family="Verdana" font-size="36">Clear</text>
+    <text x="126" y="130" font-family="Verdana" font-size="36">Cloudy</text>
+    <text x="126" y="190" font-family="Verdana" font-size="36">Rain</text>
+    <text x="126" y="250" font-family="Verdana" font-size="36">Rain/snow</text>
+    <text x="126" y="310" font-family="Verdana" font-size="36">Snow</text>
+</svg>

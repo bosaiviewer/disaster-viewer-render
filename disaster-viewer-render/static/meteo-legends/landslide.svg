@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="277" height="126" viewBox="0, 0, 831, 378">
+    <defs>
+      <linearGradient id="g1" gradientUnits="objectBoundingBox" gradientTransform="rotate(90)">
+        <stop offset="0"     stop-color="rgb(012,000,012)"/>
+        <stop offset="0.175" stop-color="rgb(012,000,012)"/>
+        <stop offset="0.225" stop-color="rgb(170,000,170)"/>
+        <stop offset="0.375" stop-color="rgb(170,000,170)"/>
+        <stop offset="0.425" stop-color="rgb(255,040,000)"/>
+        <stop offset="0.575" stop-color="rgb(255,040,000)"/>
+        <stop offset="0.625" stop-color="rgb(242,231,000)"/>
+        <stop offset="0.775" stop-color="rgb(242,231,000)"/>
+        <stop offset="0.825" stop-color="rgb(255,255,255)"/>
+        <stop offset="1"     stop-color="rgb(255,255,255)"/>
+      </linearGradient>
+    </defs>
+    <text x="12" y="48" font-family="Verdana" font-size="36">土砂災害の危険度（実況と予測で危険度を判定）</text>
+    <path d="M24 60 h 150 l -38 300 h -74 z" fill="url(#g1)" stroke="rgb(192,192,192)" stroke-width="4" opacity=".75" />
+    <text x="75" y="112" font-family="Verdana" font-size="48" fill="white">高</text>
+    <text x="81" y="176" font-family="Verdana" font-size="36" fill="rgb(168,168,168)">危</text>
+    <text x="81" y="218" font-family="Verdana" font-size="36" fill="rgb(168,168,168)">険</text>
+    <text x="81" y="260" font-family="Verdana" font-size="36" fill="rgb(168,168,168)">度</text>
+    <text x="75" y="346" font-family="Verdana" font-size="48" fill="black">低</text>
+    <path d="M190 70 h 100 v 40 h -100 z" fill="rgb(012,000,012)" stroke="rgb(192,192,192)" stroke-width="4" opacity=".75" />
+    <path d="M190 130 h 100 v 40 h -100 z" fill="rgb(170,000,170)" stroke="rgb(192,192,192)" stroke-width="4" opacity=".75" />
+    <path d="M190 190 h 100 v 40 h -100 z" fill="rgb(255,040,000)" stroke="rgb(192,192,192)" stroke-width="4" opacity=".75" />
+    <path d="M190 250 h 100 v 40 h -100 z" fill="rgb(242,231,000)" stroke="rgb(192,192,192)" stroke-width="4" opacity=".75" />
+    <path d="M190 310 h 100 v 40 h -100 z" fill="rgb(255,255,255)" stroke="rgb(192,192,192)" stroke-width="4" opacity=".75" />
+    <text x="306" y="104" font-family="Verdana" font-size="36">災害切迫</text>
+    <text x="462" y="104" font-family="Verdana" font-size="36">【警戒レベル５相当】</text>
+    <text x="306" y="164" font-family="Verdana" font-size="36">危険</text>
+    <text x="462" y="164" font-family="Verdana" font-size="36">【警戒レベル４相当】</text>
+    <text x="306" y="224" font-family="Verdana" font-size="36">警戒</text>
+    <text x="462" y="224" font-family="Verdana" font-size="36">【警戒レベル３相当】</text>
+    <text x="306" y="284" font-family="Verdana" font-size="36">注意</text>
+    <text x="462" y="284" font-family="Verdana" font-size="36">【警戒レベル２相当】</text>
+    <text x="306" y="344" font-family="Verdana" font-size="36">今後の情報等に留意</text>
+</svg>

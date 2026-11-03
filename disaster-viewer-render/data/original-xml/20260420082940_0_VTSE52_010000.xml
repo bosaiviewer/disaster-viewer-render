@@ -1,0 +1,138 @@
+<Report xmlns="http://xml.kishou.go.jp/jmaxml1/" xmlns:jmx="http://xml.kishou.go.jp/jmaxml1/">
+<Control>
+	<Title>沖合の津波観測に関する情報</Title>
+	<DateTime>2026-04-20T08:29:40Z</DateTime>
+	<Status>通常</Status>
+	<EditorialOffice>気象庁本庁</EditorialOffice>
+	<PublishingOffice>気象庁</PublishingOffice>
+</Control>
+<Head xmlns="http://xml.kishou.go.jp/jmaxml1/informationBasis1/">
+	<Title>沖合の津波観測に関する情報</Title>
+	<ReportDateTime>2026-04-20T17:29:00+09:00</ReportDateTime>
+	<TargetDateTime>2026-04-20T17:28:00+09:00</TargetDateTime>
+	<EventID>20260420165303</EventID>
+	<InfoType>発表</InfoType>
+	<Serial>3</Serial>
+	<InfoKind>津波情報</InfoKind>
+	<InfoKindVersion>1.0_1</InfoKindVersion>
+	<Headline>
+		<Text/>
+	</Headline>
+</Head>
+<Body xmlns="http://xml.kishou.go.jp/jmaxml1/body/seismology1/" xmlns:jmx_eb="http://xml.kishou.go.jp/jmaxml1/elementBasis1/">
+	<Tsunami>
+		<Observation>
+			<CodeDefine>
+				<Type xpath="Item/Area/Code">津波予報区</Type>
+				<Type xpath="Item/Station/Code">潮位観測点</Type>
+			</CodeDefine>
+			<Item>
+				<Area><Name/><Code/></Area>
+				<Station><Name>青森東方沖５０ｋｍＢ</Name><Code>20173</Code>
+					<Sensor>水圧計</Sensor>
+					<FirstHeight>
+						<ArrivalTime>2026-04-20T17:06:00+09:00</ArrivalTime>
+						<Initial>押し</Initial>
+					</FirstHeight>
+					<MaxHeight>
+						<Condition>観測中</Condition>
+					</MaxHeight>
+				</Station>
+				<Station><Name>岩手沖６０ｋｍＡ</Name><Code>21070</Code>
+					<Sensor>水圧計</Sensor>
+					<FirstHeight>
+						<ArrivalTime>2026-04-20T16:59:00+09:00</ArrivalTime>
+						<Initial>押し</Initial>
+					</FirstHeight>
+					<MaxHeight>
+						<Condition>観測中</Condition>
+					</MaxHeight>
+				</Station>
+				<Station><Name>岩手宮古沖</Name><Code>21091</Code>
+					<Sensor>ＧＮＳＳ波浪計</Sensor>
+					<FirstHeight>
+						<ArrivalTime>2026-04-20T17:04:00+09:00</ArrivalTime>
+						<Initial>押し</Initial>
+					</FirstHeight>
+					<MaxHeight>
+						<Condition>観測中</Condition>
+					</MaxHeight>
+				</Station>
+				<Station><Name>宮城沖５０ｋｍＢ</Name><Code>22072</Code>
+					<Sensor>水圧計</Sensor>
+					<FirstHeight>
+						<ArrivalTime>2026-04-20T17:10:00+09:00</ArrivalTime>
+						<Initial>押し</Initial>
+						<Revise>追加</Revise>
+					</FirstHeight>
+					<MaxHeight>
+						<DateTime>2026-04-20T17:15:00+09:00</DateTime>
+						<Condition>微弱</Condition>
+						<Revise>追加</Revise>
+					</MaxHeight>
+				</Station>
+			</Item>
+		</Observation>
+		<Estimation>
+			<CodeDefine>
+			<Type xpath="Item/Area/Code">沿岸地域</Type>
+			</CodeDefine>
+			<Item>
+				<Area><Name>青森県太平洋沿岸</Name><Code>201</Code></Area>
+				<FirstHeight>
+					<ArrivalTime>2026-04-20T17:30:00+09:00</ArrivalTime>
+					<Condition>早いところでは既に津波到達と推定</Condition>
+				</FirstHeight>
+				<MaxHeight>
+					<Condition>推定中</Condition>
+				</MaxHeight>
+			</Item>
+			<Item>
+				<Area><Name>岩手県</Name><Code>210</Code></Area>
+				<FirstHeight>
+					<ArrivalTime>2026-04-20T17:11:00+09:00</ArrivalTime>
+					<Condition>早いところでは既に津波到達と推定</Condition>
+				</FirstHeight>
+				<MaxHeight>
+					<Condition>推定中</Condition>
+				</MaxHeight>
+			</Item>
+			<Item>
+				<Area><Name>宮城県</Name><Code>220</Code></Area>
+				<FirstHeight>
+					<ArrivalTime>2026-04-20T17:32:00+09:00</ArrivalTime>
+					<Condition>早いところでは既に津波到達と推定</Condition>
+					<Revise>追加</Revise>
+				</FirstHeight>
+				<MaxHeight>
+					<DateTime>2026-04-20T17:37:00+09:00</DateTime>
+					<jmx_eb:TsunamiHeight type="津波の高さ" unit="m" description="　１ｍ">1</jmx_eb:TsunamiHeight>
+					<Revise>追加</Revise>
+				</MaxHeight>
+			</Item>
+		</Estimation>
+	</Tsunami>
+	<Earthquake>
+		<OriginTime>2026-04-20T16:52:00+09:00</OriginTime>
+		<ArrivalTime>2026-04-20T16:53:00+09:00</ArrivalTime>
+		<Hypocenter>
+			<Area>
+				<Name>三陸沖</Name>
+				<Code type="震央地名">288</Code>
+				<jmx_eb:Coordinate description="北緯３９．８度　東経１４３．２度　深さ　１０ｋｍ">+39.8+143.2-10000/</jmx_eb:Coordinate>
+				<NameFromMark>宮古の東１００ｋｍ付近</NameFromMark>
+				<MarkCode type="震央補助">201</MarkCode>
+				<Direction>東</Direction>
+				<Distance unit="km">100</Distance>
+			</Area>
+		</Hypocenter>
+		<jmx_eb:Magnitude type="Mj" description="Ｍ７．５">7.5</jmx_eb:Magnitude>
+	</Earthquake>
+	<Comments>
+		<WarningComment codeType="固定付加文">
+			<Text>沖合での観測値であり、沿岸では津波はさらに高くなります。</Text>
+			<Code>0115</Code>
+		</WarningComment>
+	</Comments>
+</Body>
+</Report>

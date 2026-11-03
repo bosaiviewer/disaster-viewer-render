@@ -1,0 +1,7664 @@
+{
+  "北海道": {
+    "石狩市": {
+      "city": "石狩市",
+      "ward": null
+    },
+    "当別町": {
+      "city": "当別町",
+      "ward": null
+    },
+    "新篠津村": {
+      "city": "新篠津村",
+      "ward": null
+    },
+    "札幌中央区": {
+      "city": "札幌市",
+      "ward": "中央区"
+    },
+    "札幌北区": {
+      "city": "札幌市",
+      "ward": "北区"
+    },
+    "札幌東区": {
+      "city": "札幌市",
+      "ward": "東区"
+    },
+    "札幌白石区": {
+      "city": "札幌市",
+      "ward": "白石区"
+    },
+    "札幌豊平区": {
+      "city": "札幌市",
+      "ward": "豊平区"
+    },
+    "札幌南区": {
+      "city": "札幌市",
+      "ward": "南区"
+    },
+    "札幌西区": {
+      "city": "札幌市",
+      "ward": "西区"
+    },
+    "札幌厚別区": {
+      "city": "札幌市",
+      "ward": "厚別区"
+    },
+    "札幌手稲区": {
+      "city": "札幌市",
+      "ward": "手稲区"
+    },
+    "札幌清田区": {
+      "city": "札幌市",
+      "ward": "清田区"
+    },
+    "江別市": {
+      "city": "江別市",
+      "ward": null
+    },
+    "千歳市": {
+      "city": "千歳市",
+      "ward": null
+    },
+    "恵庭市": {
+      "city": "恵庭市",
+      "ward": null
+    },
+    "北広島市": {
+      "city": "北広島市",
+      "ward": null
+    },
+    "小樽市": {
+      "city": "小樽市",
+      "ward": null
+    },
+    "積丹町": {
+      "city": "積丹町",
+      "ward": null
+    },
+    "古平町": {
+      "city": "古平町",
+      "ward": null
+    },
+    "仁木町": {
+      "city": "仁木町",
+      "ward": null
+    },
+    "余市町": {
+      "city": "余市町",
+      "ward": null
+    },
+    "赤井川村": {
+      "city": "赤井川村",
+      "ward": null
+    },
+    "ニセコ町": {
+      "city": "ニセコ町",
+      "ward": null
+    },
+    "真狩村": {
+      "city": "真狩村",
+      "ward": null
+    },
+    "留寿都村": {
+      "city": "留寿都村",
+      "ward": null
+    },
+    "喜茂別町": {
+      "city": "喜茂別町",
+      "ward": null
+    },
+    "京極町": {
+      "city": "京極町",
+      "ward": null
+    },
+    "倶知安町": {
+      "city": "倶知安町",
+      "ward": null
+    },
+    "島牧村": {
+      "city": "島牧村",
+      "ward": null
+    },
+    "寿都町": {
+      "city": "寿都町",
+      "ward": null
+    },
+    "黒松内町": {
+      "city": "黒松内町",
+      "ward": null
+    },
+    "蘭越町": {
+      "city": "蘭越町",
+      "ward": null
+    },
+    "共和町": {
+      "city": "共和町",
+      "ward": null
+    },
+    "岩内町": {
+      "city": "岩内町",
+      "ward": null
+    },
+    "泊村": {
+      "city": "泊村",
+      "ward": null
+    },
+    "神恵内村": {
+      "city": "神恵内村",
+      "ward": null
+    },
+    "深川市": {
+      "city": "深川市",
+      "ward": null
+    },
+    "妹背牛町": {
+      "city": "妹背牛町",
+      "ward": null
+    },
+    "秩父別町": {
+      "city": "秩父別町",
+      "ward": null
+    },
+    "北竜町": {
+      "city": "北竜町",
+      "ward": null
+    },
+    "沼田町": {
+      "city": "沼田町",
+      "ward": null
+    },
+    "芦別市": {
+      "city": "芦別市",
+      "ward": null
+    },
+    "赤平市": {
+      "city": "赤平市",
+      "ward": null
+    },
+    "滝川市": {
+      "city": "滝川市",
+      "ward": null
+    },
+    "砂川市": {
+      "city": "砂川市",
+      "ward": null
+    },
+    "歌志内市": {
+      "city": "歌志内市",
+      "ward": null
+    },
+    "奈井江町": {
+      "city": "奈井江町",
+      "ward": null
+    },
+    "上砂川町": {
+      "city": "上砂川町",
+      "ward": null
+    },
+    "浦臼町": {
+      "city": "浦臼町",
+      "ward": null
+    },
+    "新十津川町": {
+      "city": "新十津川町",
+      "ward": null
+    },
+    "雨竜町": {
+      "city": "雨竜町",
+      "ward": null
+    },
+    "夕張市": {
+      "city": "夕張市",
+      "ward": null
+    },
+    "岩見沢市": {
+      "city": "岩見沢市",
+      "ward": null
+    },
+    "美唄市": {
+      "city": "美唄市",
+      "ward": null
+    },
+    "三笠市": {
+      "city": "三笠市",
+      "ward": null
+    },
+    "南幌町": {
+      "city": "南幌町",
+      "ward": null
+    },
+    "由仁町": {
+      "city": "由仁町",
+      "ward": null
+    },
+    "長沼町": {
+      "city": "長沼町",
+      "ward": null
+    },
+    "栗山町": {
+      "city": "栗山町",
+      "ward": null
+    },
+    "月形町": {
+      "city": "月形町",
+      "ward": null
+    },
+    "八雲町": {
+      "city": "八雲町",
+      "ward": null
+    },
+    "長万部町": {
+      "city": "長万部町",
+      "ward": null
+    },
+    "函館市": {
+      "city": "函館市",
+      "ward": null
+    },
+    "渡島北斗市": {
+      "city": "渡島北斗市",
+      "ward": null
+    },
+    "七飯町": {
+      "city": "七飯町",
+      "ward": null
+    },
+    "鹿部町": {
+      "city": "鹿部町",
+      "ward": null
+    },
+    "渡島森町": {
+      "city": "渡島森町",
+      "ward": null
+    },
+    "渡島松前町": {
+      "city": "渡島松前町",
+      "ward": null
+    },
+    "福島町": {
+      "city": "福島町",
+      "ward": null
+    },
+    "知内町": {
+      "city": "知内町",
+      "ward": null
+    },
+    "木古内町": {
+      "city": "木古内町",
+      "ward": null
+    },
+    "檜山江差町": {
+      "city": "檜山江差町",
+      "ward": null
+    },
+    "上ノ国町": {
+      "city": "上ノ国町",
+      "ward": null
+    },
+    "厚沢部町": {
+      "city": "厚沢部町",
+      "ward": null
+    },
+    "乙部町": {
+      "city": "乙部町",
+      "ward": null
+    },
+    "今金町": {
+      "city": "今金町",
+      "ward": null
+    },
+    "せたな町": {
+      "city": "せたな町",
+      "ward": null
+    },
+    "奥尻町": {
+      "city": "奥尻町",
+      "ward": null
+    },
+    "胆振伊達市": {
+      "city": "胆振伊達市",
+      "ward": null
+    },
+    "豊浦町": {
+      "city": "豊浦町",
+      "ward": null
+    },
+    "壮瞥町": {
+      "city": "壮瞥町",
+      "ward": null
+    },
+    "洞爺湖町": {
+      "city": "洞爺湖町",
+      "ward": null
+    },
+    "室蘭市": {
+      "city": "室蘭市",
+      "ward": null
+    },
+    "苫小牧市": {
+      "city": "苫小牧市",
+      "ward": null
+    },
+    "登別市": {
+      "city": "登別市",
+      "ward": null
+    },
+    "白老町": {
+      "city": "白老町",
+      "ward": null
+    },
+    "厚真町": {
+      "city": "厚真町",
+      "ward": null
+    },
+    "安平町": {
+      "city": "安平町",
+      "ward": null
+    },
+    "むかわ町": {
+      "city": "むかわ町",
+      "ward": null
+    },
+    "日高地方日高町": {
+      "city": "日高地方日高町",
+      "ward": null
+    },
+    "平取町": {
+      "city": "平取町",
+      "ward": null
+    },
+    "新冠町": {
+      "city": "新冠町",
+      "ward": null
+    },
+    "新ひだか町": {
+      "city": "新ひだか町",
+      "ward": null
+    },
+    "浦河町": {
+      "city": "浦河町",
+      "ward": null
+    },
+    "様似町": {
+      "city": "様似町",
+      "ward": null
+    },
+    "えりも町": {
+      "city": "えりも町",
+      "ward": null
+    },
+    "士別市": {
+      "city": "士別市",
+      "ward": null
+    },
+    "名寄市": {
+      "city": "名寄市",
+      "ward": null
+    },
+    "和寒町": {
+      "city": "和寒町",
+      "ward": null
+    },
+    "剣淵町": {
+      "city": "剣淵町",
+      "ward": null
+    },
+    "下川町": {
+      "city": "下川町",
+      "ward": null
+    },
+    "美深町": {
+      "city": "美深町",
+      "ward": null
+    },
+    "音威子府村": {
+      "city": "音威子府村",
+      "ward": null
+    },
+    "上川中川町": {
+      "city": "上川中川町",
+      "ward": null
+    },
+    "幌加内町": {
+      "city": "幌加内町",
+      "ward": null
+    },
+    "旭川市": {
+      "city": "旭川市",
+      "ward": null
+    },
+    "鷹栖町": {
+      "city": "鷹栖町",
+      "ward": null
+    },
+    "東神楽町": {
+      "city": "東神楽町",
+      "ward": null
+    },
+    "当麻町": {
+      "city": "当麻町",
+      "ward": null
+    },
+    "比布町": {
+      "city": "比布町",
+      "ward": null
+    },
+    "愛別町": {
+      "city": "愛別町",
+      "ward": null
+    },
+    "上川地方上川町": {
+      "city": "上川地方上川町",
+      "ward": null
+    },
+    "東川町": {
+      "city": "東川町",
+      "ward": null
+    },
+    "美瑛町": {
+      "city": "美瑛町",
+      "ward": null
+    },
+    "富良野市": {
+      "city": "富良野市",
+      "ward": null
+    },
+    "上富良野町": {
+      "city": "上富良野町",
+      "ward": null
+    },
+    "中富良野町": {
+      "city": "中富良野町",
+      "ward": null
+    },
+    "南富良野町": {
+      "city": "南富良野町",
+      "ward": null
+    },
+    "占冠村": {
+      "city": "占冠村",
+      "ward": null
+    },
+    "苫前町": {
+      "city": "苫前町",
+      "ward": null
+    },
+    "羽幌町": {
+      "city": "羽幌町",
+      "ward": null
+    },
+    "初山別村": {
+      "city": "初山別村",
+      "ward": null
+    },
+    "遠別町": {
+      "city": "遠別町",
+      "ward": null
+    },
+    "天塩町": {
+      "city": "天塩町",
+      "ward": null
+    },
+    "留萌市": {
+      "city": "留萌市",
+      "ward": null
+    },
+    "増毛町": {
+      "city": "増毛町",
+      "ward": null
+    },
+    "小平町": {
+      "city": "小平町",
+      "ward": null
+    },
+    "稚内市": {
+      "city": "稚内市",
+      "ward": null
+    },
+    "猿払村": {
+      "city": "猿払村",
+      "ward": null
+    },
+    "豊富町": {
+      "city": "豊富町",
+      "ward": null
+    },
+    "幌延町": {
+      "city": "幌延町",
+      "ward": null
+    },
+    "浜頓別町": {
+      "city": "浜頓別町",
+      "ward": null
+    },
+    "中頓別町": {
+      "city": "中頓別町",
+      "ward": null
+    },
+    "宗谷枝幸町": {
+      "city": "宗谷枝幸町",
+      "ward": null
+    },
+    "礼文町": {
+      "city": "礼文町",
+      "ward": null
+    },
+    "利尻町": {
+      "city": "利尻町",
+      "ward": null
+    },
+    "利尻富士町": {
+      "city": "利尻富士町",
+      "ward": null
+    },
+    "網走市": {
+      "city": "網走市",
+      "ward": null
+    },
+    "美幌町": {
+      "city": "美幌町",
+      "ward": null
+    },
+    "津別町": {
+      "city": "津別町",
+      "ward": null
+    },
+    "斜里町": {
+      "city": "斜里町",
+      "ward": null
+    },
+    "清里町": {
+      "city": "清里町",
+      "ward": null
+    },
+    "小清水町": {
+      "city": "小清水町",
+      "ward": null
+    },
+    "大空町": {
+      "city": "大空町",
+      "ward": null
+    },
+    "北見市": {
+      "city": "北見市",
+      "ward": null
+    },
+    "訓子府町": {
+      "city": "訓子府町",
+      "ward": null
+    },
+    "置戸町": {
+      "city": "置戸町",
+      "ward": null
+    },
+    "佐呂間町": {
+      "city": "佐呂間町",
+      "ward": null
+    },
+    "紋別市": {
+      "city": "紋別市",
+      "ward": null
+    },
+    "遠軽町": {
+      "city": "遠軽町",
+      "ward": null
+    },
+    "湧別町": {
+      "city": "湧別町",
+      "ward": null
+    },
+    "滝上町": {
+      "city": "滝上町",
+      "ward": null
+    },
+    "興部町": {
+      "city": "興部町",
+      "ward": null
+    },
+    "西興部村": {
+      "city": "西興部村",
+      "ward": null
+    },
+    "雄武町": {
+      "city": "雄武町",
+      "ward": null
+    },
+    "上士幌町": {
+      "city": "上士幌町",
+      "ward": null
+    },
+    "鹿追町": {
+      "city": "鹿追町",
+      "ward": null
+    },
+    "新得町": {
+      "city": "新得町",
+      "ward": null
+    },
+    "足寄町": {
+      "city": "足寄町",
+      "ward": null
+    },
+    "陸別町": {
+      "city": "陸別町",
+      "ward": null
+    },
+    "帯広市": {
+      "city": "帯広市",
+      "ward": null
+    },
+    "音更町": {
+      "city": "音更町",
+      "ward": null
+    },
+    "士幌町": {
+      "city": "士幌町",
+      "ward": null
+    },
+    "十勝清水町": {
+      "city": "十勝清水町",
+      "ward": null
+    },
+    "芽室町": {
+      "city": "芽室町",
+      "ward": null
+    },
+    "幕別町": {
+      "city": "幕別町",
+      "ward": null
+    },
+    "十勝池田町": {
+      "city": "十勝池田町",
+      "ward": null
+    },
+    "豊頃町": {
+      "city": "豊頃町",
+      "ward": null
+    },
+    "本別町": {
+      "city": "本別町",
+      "ward": null
+    },
+    "浦幌町": {
+      "city": "浦幌町",
+      "ward": null
+    },
+    "中札内村": {
+      "city": "中札内村",
+      "ward": null
+    },
+    "更別村": {
+      "city": "更別村",
+      "ward": null
+    },
+    "十勝大樹町": {
+      "city": "十勝大樹町",
+      "ward": null
+    },
+    "広尾町": {
+      "city": "広尾町",
+      "ward": null
+    },
+    "弟子屈町": {
+      "city": "弟子屈町",
+      "ward": null
+    },
+    "釧路市": {
+      "city": "釧路市",
+      "ward": null
+    },
+    "釧路町": {
+      "city": "釧路町",
+      "ward": null
+    },
+    "厚岸町": {
+      "city": "厚岸町",
+      "ward": null
+    },
+    "浜中町": {
+      "city": "浜中町",
+      "ward": null
+    },
+    "標茶町": {
+      "city": "標茶町",
+      "ward": null
+    },
+    "鶴居村": {
+      "city": "鶴居村",
+      "ward": null
+    },
+    "白糠町": {
+      "city": "白糠町",
+      "ward": null
+    },
+    "中標津町": {
+      "city": "中標津町",
+      "ward": null
+    },
+    "標津町": {
+      "city": "標津町",
+      "ward": null
+    },
+    "羅臼町": {
+      "city": "羅臼町",
+      "ward": null
+    },
+    "別海町": {
+      "city": "別海町",
+      "ward": null
+    },
+    "根室市": {
+      "city": "根室市",
+      "ward": null
+    }
+  },
+  "青森県": {
+    "青森市": {
+      "city": "青森市",
+      "ward": null
+    },
+    "五所川原市": {
+      "city": "五所川原市",
+      "ward": null
+    },
+    "つがる市": {
+      "city": "つがる市",
+      "ward": null
+    },
+    "平内町": {
+      "city": "平内町",
+      "ward": null
+    },
+    "今別町": {
+      "city": "今別町",
+      "ward": null
+    },
+    "蓬田村": {
+      "city": "蓬田村",
+      "ward": null
+    },
+    "外ヶ浜町": {
+      "city": "外ヶ浜町",
+      "ward": null
+    },
+    "板柳町": {
+      "city": "板柳町",
+      "ward": null
+    },
+    "鶴田町": {
+      "city": "鶴田町",
+      "ward": null
+    },
+    "中泊町": {
+      "city": "中泊町",
+      "ward": null
+    },
+    "弘前市": {
+      "city": "弘前市",
+      "ward": null
+    },
+    "黒石市": {
+      "city": "黒石市",
+      "ward": null
+    },
+    "平川市": {
+      "city": "平川市",
+      "ward": null
+    },
+    "鰺ヶ沢町": {
+      "city": "鰺ヶ沢町",
+      "ward": null
+    },
+    "深浦町": {
+      "city": "深浦町",
+      "ward": null
+    },
+    "西目屋村": {
+      "city": "西目屋村",
+      "ward": null
+    },
+    "藤崎町": {
+      "city": "藤崎町",
+      "ward": null
+    },
+    "大鰐町": {
+      "city": "大鰐町",
+      "ward": null
+    },
+    "田舎館村": {
+      "city": "田舎館村",
+      "ward": null
+    },
+    "八戸市": {
+      "city": "八戸市",
+      "ward": null
+    },
+    "十和田市": {
+      "city": "十和田市",
+      "ward": null
+    },
+    "三沢市": {
+      "city": "三沢市",
+      "ward": null
+    },
+    "野辺地町": {
+      "city": "野辺地町",
+      "ward": null
+    },
+    "七戸町": {
+      "city": "七戸町",
+      "ward": null
+    },
+    "六戸町": {
+      "city": "六戸町",
+      "ward": null
+    },
+    "横浜町": {
+      "city": "横浜町",
+      "ward": null
+    },
+    "東北町": {
+      "city": "東北町",
+      "ward": null
+    },
+    "六ヶ所村": {
+      "city": "六ヶ所村",
+      "ward": null
+    },
+    "おいらせ町": {
+      "city": "おいらせ町",
+      "ward": null
+    },
+    "三戸町": {
+      "city": "三戸町",
+      "ward": null
+    },
+    "五戸町": {
+      "city": "五戸町",
+      "ward": null
+    },
+    "田子町": {
+      "city": "田子町",
+      "ward": null
+    },
+    "青森南部町": {
+      "city": "南部町",
+      "ward": null
+    },
+    "階上町": {
+      "city": "階上町",
+      "ward": null
+    },
+    "新郷村": {
+      "city": "新郷村",
+      "ward": null
+    },
+    "むつ市": {
+      "city": "むつ市",
+      "ward": null
+    },
+    "大間町": {
+      "city": "大間町",
+      "ward": null
+    },
+    "東通村": {
+      "city": "東通村",
+      "ward": null
+    },
+    "風間浦村": {
+      "city": "風間浦村",
+      "ward": null
+    },
+    "佐井村": {
+      "city": "佐井村",
+      "ward": null
+    }
+  },
+  "岩手県": {
+    "宮古市": {
+      "city": "宮古市",
+      "ward": null
+    },
+    "久慈市": {
+      "city": "久慈市",
+      "ward": null
+    },
+    "山田町": {
+      "city": "山田町",
+      "ward": null
+    },
+    "岩泉町": {
+      "city": "岩泉町",
+      "ward": null
+    },
+    "田野畑村": {
+      "city": "田野畑村",
+      "ward": null
+    },
+    "普代村": {
+      "city": "普代村",
+      "ward": null
+    },
+    "野田村": {
+      "city": "野田村",
+      "ward": null
+    },
+    "岩手洋野町": {
+      "city": "洋野町",
+      "ward": null
+    },
+    "大船渡市": {
+      "city": "大船渡市",
+      "ward": null
+    },
+    "陸前高田市": {
+      "city": "陸前高田市",
+      "ward": null
+    },
+    "釜石市": {
+      "city": "釜石市",
+      "ward": null
+    },
+    "住田町": {
+      "city": "住田町",
+      "ward": null
+    },
+    "大槌町": {
+      "city": "大槌町",
+      "ward": null
+    },
+    "盛岡市": {
+      "city": "盛岡市",
+      "ward": null
+    },
+    "二戸市": {
+      "city": "二戸市",
+      "ward": null
+    },
+    "八幡平市": {
+      "city": "八幡平市",
+      "ward": null
+    },
+    "滝沢市": {
+      "city": "滝沢市",
+      "ward": null
+    },
+    "雫石町": {
+      "city": "雫石町",
+      "ward": null
+    },
+    "葛巻町": {
+      "city": "葛巻町",
+      "ward": null
+    },
+    "岩手町": {
+      "city": "岩手町",
+      "ward": null
+    },
+    "紫波町": {
+      "city": "紫波町",
+      "ward": null
+    },
+    "矢巾町": {
+      "city": "矢巾町",
+      "ward": null
+    },
+    "軽米町": {
+      "city": "軽米町",
+      "ward": null
+    },
+    "九戸村": {
+      "city": "九戸村",
+      "ward": null
+    },
+    "一戸町": {
+      "city": "一戸町",
+      "ward": null
+    },
+    "花巻市": {
+      "city": "花巻市",
+      "ward": null
+    },
+    "北上市": {
+      "city": "北上市",
+      "ward": null
+    },
+    "遠野市": {
+      "city": "遠野市",
+      "ward": null
+    },
+    "一関市": {
+      "city": "一関市",
+      "ward": null
+    },
+    "奥州市": {
+      "city": "奥州市",
+      "ward": null
+    },
+    "西和賀町": {
+      "city": "西和賀町",
+      "ward": null
+    },
+    "金ケ崎町": {
+      "city": "金ケ崎町",
+      "ward": null
+    },
+    "平泉町": {
+      "city": "平泉町",
+      "ward": null
+    }
+  },
+  "宮城県": {
+    "気仙沼市": {
+      "city": "気仙沼市",
+      "ward": null
+    },
+    "登米市": {
+      "city": "登米市",
+      "ward": null
+    },
+    "栗原市": {
+      "city": "栗原市",
+      "ward": null
+    },
+    "大崎市": {
+      "city": "大崎市",
+      "ward": null
+    },
+    "色麻町": {
+      "city": "色麻町",
+      "ward": null
+    },
+    "宮城加美町": {
+      "city": "加美町",
+      "ward": null
+    },
+    "涌谷町": {
+      "city": "涌谷町",
+      "ward": null
+    },
+    "宮城美里町": {
+      "city": "美里町",
+      "ward": null
+    },
+    "南三陸町": {
+      "city": "南三陸町",
+      "ward": null
+    },
+    "仙台青葉区": {
+      "city": "仙台市",
+      "ward": "青葉区"
+    },
+    "仙台宮城野区": {
+      "city": "仙台市",
+      "ward": "宮城野区"
+    },
+    "仙台若林区": {
+      "city": "仙台市",
+      "ward": "若林区"
+    },
+    "仙台太白区": {
+      "city": "仙台市",
+      "ward": "太白区"
+    },
+    "仙台泉区": {
+      "city": "仙台市",
+      "ward": "泉区"
+    },
+    "石巻市": {
+      "city": "石巻市",
+      "ward": null
+    },
+    "塩竈市": {
+      "city": "塩竈市",
+      "ward": null
+    },
+    "多賀城市": {
+      "city": "多賀城市",
+      "ward": null
+    },
+    "東松島市": {
+      "city": "東松島市",
+      "ward": null
+    },
+    "富谷市": {
+      "city": "富谷市",
+      "ward": null
+    },
+    "松島町": {
+      "city": "松島町",
+      "ward": null
+    },
+    "七ヶ浜町": {
+      "city": "七ヶ浜町",
+      "ward": null
+    },
+    "利府町": {
+      "city": "利府町",
+      "ward": null
+    },
+    "大和町": {
+      "city": "大和町",
+      "ward": null
+    },
+    "大郷町": {
+      "city": "大郷町",
+      "ward": null
+    },
+    "大衡村": {
+      "city": "大衡村",
+      "ward": null
+    },
+    "女川町": {
+      "city": "女川町",
+      "ward": null
+    },
+    "白石市": {
+      "city": "白石市",
+      "ward": null
+    },
+    "名取市": {
+      "city": "名取市",
+      "ward": null
+    },
+    "角田市": {
+      "city": "角田市",
+      "ward": null
+    },
+    "岩沼市": {
+      "city": "岩沼市",
+      "ward": null
+    },
+    "蔵王町": {
+      "city": "蔵王町",
+      "ward": null
+    },
+    "七ヶ宿町": {
+      "city": "七ヶ宿町",
+      "ward": null
+    },
+    "大河原町": {
+      "city": "大河原町",
+      "ward": null
+    },
+    "村田町": {
+      "city": "村田町",
+      "ward": null
+    },
+    "柴田町": {
+      "city": "柴田町",
+      "ward": null
+    },
+    "宮城川崎町": {
+      "city": "川崎町",
+      "ward": null
+    },
+    "丸森町": {
+      "city": "丸森町",
+      "ward": null
+    },
+    "亘理町": {
+      "city": "亘理町",
+      "ward": null
+    },
+    "山元町": {
+      "city": "山元町",
+      "ward": null
+    }
+  },
+  "秋田県": {
+    "能代市": {
+      "city": "能代市",
+      "ward": null
+    },
+    "男鹿市": {
+      "city": "男鹿市",
+      "ward": null
+    },
+    "潟上市": {
+      "city": "潟上市",
+      "ward": null
+    },
+    "藤里町": {
+      "city": "藤里町",
+      "ward": null
+    },
+    "三種町": {
+      "city": "三種町",
+      "ward": null
+    },
+    "八峰町": {
+      "city": "八峰町",
+      "ward": null
+    },
+    "五城目町": {
+      "city": "五城目町",
+      "ward": null
+    },
+    "八郎潟町": {
+      "city": "八郎潟町",
+      "ward": null
+    },
+    "井川町": {
+      "city": "井川町",
+      "ward": null
+    },
+    "大潟村": {
+      "city": "大潟村",
+      "ward": null
+    },
+    "秋田市": {
+      "city": "秋田市",
+      "ward": null
+    },
+    "由利本荘市": {
+      "city": "由利本荘市",
+      "ward": null
+    },
+    "にかほ市": {
+      "city": "にかほ市",
+      "ward": null
+    },
+    "大館市": {
+      "city": "大館市",
+      "ward": null
+    },
+    "鹿角市": {
+      "city": "鹿角市",
+      "ward": null
+    },
+    "北秋田市": {
+      "city": "北秋田市",
+      "ward": null
+    },
+    "小坂町": {
+      "city": "小坂町",
+      "ward": null
+    },
+    "上小阿仁村": {
+      "city": "上小阿仁村",
+      "ward": null
+    },
+    "横手市": {
+      "city": "横手市",
+      "ward": null
+    },
+    "湯沢市": {
+      "city": "湯沢市",
+      "ward": null
+    },
+    "大仙市": {
+      "city": "大仙市",
+      "ward": null
+    },
+    "仙北市": {
+      "city": "仙北市",
+      "ward": null
+    },
+    "秋田美郷町": {
+      "city": "美郷町",
+      "ward": null
+    },
+    "羽後町": {
+      "city": "羽後町",
+      "ward": null
+    },
+    "東成瀬村": {
+      "city": "東成瀬村",
+      "ward": null
+    }
+  },
+  "山形県": {
+    "鶴岡市": {
+      "city": "鶴岡市",
+      "ward": null
+    },
+    "酒田市": {
+      "city": "酒田市",
+      "ward": null
+    },
+    "三川町": {
+      "city": "三川町",
+      "ward": null
+    },
+    "庄内町": {
+      "city": "庄内町",
+      "ward": null
+    },
+    "遊佐町": {
+      "city": "遊佐町",
+      "ward": null
+    },
+    "新庄市": {
+      "city": "新庄市",
+      "ward": null
+    },
+    "山形金山町": {
+      "city": "金山町",
+      "ward": null
+    },
+    "最上町": {
+      "city": "最上町",
+      "ward": null
+    },
+    "舟形町": {
+      "city": "舟形町",
+      "ward": null
+    },
+    "真室川町": {
+      "city": "真室川町",
+      "ward": null
+    },
+    "大蔵村": {
+      "city": "大蔵村",
+      "ward": null
+    },
+    "鮭川村": {
+      "city": "鮭川村",
+      "ward": null
+    },
+    "戸沢村": {
+      "city": "戸沢村",
+      "ward": null
+    },
+    "山形市": {
+      "city": "山形市",
+      "ward": null
+    },
+    "寒河江市": {
+      "city": "寒河江市",
+      "ward": null
+    },
+    "上山市": {
+      "city": "上山市",
+      "ward": null
+    },
+    "村山市": {
+      "city": "村山市",
+      "ward": null
+    },
+    "天童市": {
+      "city": "天童市",
+      "ward": null
+    },
+    "東根市": {
+      "city": "東根市",
+      "ward": null
+    },
+    "尾花沢市": {
+      "city": "尾花沢市",
+      "ward": null
+    },
+    "山辺町": {
+      "city": "山辺町",
+      "ward": null
+    },
+    "中山町": {
+      "city": "中山町",
+      "ward": null
+    },
+    "河北町": {
+      "city": "河北町",
+      "ward": null
+    },
+    "西川町": {
+      "city": "西川町",
+      "ward": null
+    },
+    "山形朝日町": {
+      "city": "朝日町",
+      "ward": null
+    },
+    "大江町": {
+      "city": "大江町",
+      "ward": null
+    },
+    "大石田町": {
+      "city": "大石田町",
+      "ward": null
+    },
+    "米沢市": {
+      "city": "米沢市",
+      "ward": null
+    },
+    "長井市": {
+      "city": "長井市",
+      "ward": null
+    },
+    "南陽市": {
+      "city": "南陽市",
+      "ward": null
+    },
+    "高畠町": {
+      "city": "高畠町",
+      "ward": null
+    },
+    "山形川西町": {
+      "city": "川西町",
+      "ward": null
+    },
+    "山形小国町": {
+      "city": "小国町",
+      "ward": null
+    },
+    "白鷹町": {
+      "city": "白鷹町",
+      "ward": null
+    },
+    "飯豊町": {
+      "city": "飯豊町",
+      "ward": null
+    }
+  },
+  "福島県": {
+    "福島市": {
+      "city": "福島市",
+      "ward": null
+    },
+    "郡山市": {
+      "city": "郡山市",
+      "ward": null
+    },
+    "白河市": {
+      "city": "白河市",
+      "ward": null
+    },
+    "須賀川市": {
+      "city": "須賀川市",
+      "ward": null
+    },
+    "二本松市": {
+      "city": "二本松市",
+      "ward": null
+    },
+    "田村市": {
+      "city": "田村市",
+      "ward": null
+    },
+    "福島伊達市": {
+      "city": "伊達市",
+      "ward": null
+    },
+    "本宮市": {
+      "city": "本宮市",
+      "ward": null
+    },
+    "桑折町": {
+      "city": "桑折町",
+      "ward": null
+    },
+    "国見町": {
+      "city": "国見町",
+      "ward": null
+    },
+    "川俣町": {
+      "city": "川俣町",
+      "ward": null
+    },
+    "大玉村": {
+      "city": "大玉村",
+      "ward": null
+    },
+    "鏡石町": {
+      "city": "鏡石町",
+      "ward": null
+    },
+    "天栄村": {
+      "city": "天栄村",
+      "ward": null
+    },
+    "西郷村": {
+      "city": "西郷村",
+      "ward": null
+    },
+    "泉崎村": {
+      "city": "泉崎村",
+      "ward": null
+    },
+    "中島村": {
+      "city": "中島村",
+      "ward": null
+    },
+    "矢吹町": {
+      "city": "矢吹町",
+      "ward": null
+    },
+    "棚倉町": {
+      "city": "棚倉町",
+      "ward": null
+    },
+    "矢祭町": {
+      "city": "矢祭町",
+      "ward": null
+    },
+    "塙町": {
+      "city": "塙町",
+      "ward": null
+    },
+    "鮫川村": {
+      "city": "鮫川村",
+      "ward": null
+    },
+    "石川町": {
+      "city": "石川町",
+      "ward": null
+    },
+    "玉川村": {
+      "city": "玉川村",
+      "ward": null
+    },
+    "平田村": {
+      "city": "平田村",
+      "ward": null
+    },
+    "浅川町": {
+      "city": "浅川町",
+      "ward": null
+    },
+    "古殿町": {
+      "city": "古殿町",
+      "ward": null
+    },
+    "三春町": {
+      "city": "三春町",
+      "ward": null
+    },
+    "小野町": {
+      "city": "小野町",
+      "ward": null
+    },
+    "いわき市": {
+      "city": "いわき市",
+      "ward": null
+    },
+    "相馬市": {
+      "city": "相馬市",
+      "ward": null
+    },
+    "南相馬市": {
+      "city": "南相馬市",
+      "ward": null
+    },
+    "福島広野町": {
+      "city": "広野町",
+      "ward": null
+    },
+    "楢葉町": {
+      "city": "楢葉町",
+      "ward": null
+    },
+    "富岡町": {
+      "city": "富岡町",
+      "ward": null
+    },
+    "川内村": {
+      "city": "川内村",
+      "ward": null
+    },
+    "大熊町": {
+      "city": "大熊町",
+      "ward": null
+    },
+    "双葉町": {
+      "city": "双葉町",
+      "ward": null
+    },
+    "浪江町": {
+      "city": "浪江町",
+      "ward": null
+    },
+    "葛尾村": {
+      "city": "葛尾村",
+      "ward": null
+    },
+    "新地町": {
+      "city": "新地町",
+      "ward": null
+    },
+    "飯舘村": {
+      "city": "飯舘村",
+      "ward": null
+    },
+    "会津若松市": {
+      "city": "会津若松市",
+      "ward": null
+    },
+    "喜多方市": {
+      "city": "喜多方市",
+      "ward": null
+    },
+    "下郷町": {
+      "city": "下郷町",
+      "ward": null
+    },
+    "檜枝岐村": {
+      "city": "檜枝岐村",
+      "ward": null
+    },
+    "只見町": {
+      "city": "只見町",
+      "ward": null
+    },
+    "南会津町": {
+      "city": "南会津町",
+      "ward": null
+    },
+    "北塩原村": {
+      "city": "北塩原村",
+      "ward": null
+    },
+    "西会津町": {
+      "city": "西会津町",
+      "ward": null
+    },
+    "磐梯町": {
+      "city": "磐梯町",
+      "ward": null
+    },
+    "猪苗代町": {
+      "city": "猪苗代町",
+      "ward": null
+    },
+    "会津坂下町": {
+      "city": "会津坂下町",
+      "ward": null
+    },
+    "湯川村": {
+      "city": "湯川村",
+      "ward": null
+    },
+    "柳津町": {
+      "city": "柳津町",
+      "ward": null
+    },
+    "三島町": {
+      "city": "三島町",
+      "ward": null
+    },
+    "福島金山町": {
+      "city": "金山町",
+      "ward": null
+    },
+    "福島昭和村": {
+      "city": "昭和村",
+      "ward": null
+    },
+    "会津美里町": {
+      "city": "会津美里町",
+      "ward": null
+    }
+  },
+  "茨城県": {
+    "水戸市": {
+      "city": "水戸市",
+      "ward": null
+    },
+    "日立市": {
+      "city": "日立市",
+      "ward": null
+    },
+    "常陸太田市": {
+      "city": "常陸太田市",
+      "ward": null
+    },
+    "高萩市": {
+      "city": "高萩市",
+      "ward": null
+    },
+    "北茨城市": {
+      "city": "北茨城市",
+      "ward": null
+    },
+    "笠間市": {
+      "city": "笠間市",
+      "ward": null
+    },
+    "ひたちなか市": {
+      "city": "ひたちなか市",
+      "ward": null
+    },
+    "常陸大宮市": {
+      "city": "常陸大宮市",
+      "ward": null
+    },
+    "那珂市": {
+      "city": "那珂市",
+      "ward": null
+    },
+    "小美玉市": {
+      "city": "小美玉市",
+      "ward": null
+    },
+    "茨城町": {
+      "city": "茨城町",
+      "ward": null
+    },
+    "大洗町": {
+      "city": "大洗町",
+      "ward": null
+    },
+    "城里町": {
+      "city": "城里町",
+      "ward": null
+    },
+    "東海村": {
+      "city": "東海村",
+      "ward": null
+    },
+    "大子町": {
+      "city": "大子町",
+      "ward": null
+    },
+    "土浦市": {
+      "city": "土浦市",
+      "ward": null
+    },
+    "茨城古河市": {
+      "city": "古河市",
+      "ward": null
+    },
+    "石岡市": {
+      "city": "石岡市",
+      "ward": null
+    },
+    "結城市": {
+      "city": "結城市",
+      "ward": null
+    },
+    "龍ケ崎市": {
+      "city": "龍ケ崎市",
+      "ward": null
+    },
+    "下妻市": {
+      "city": "下妻市",
+      "ward": null
+    },
+    "常総市": {
+      "city": "常総市",
+      "ward": null
+    },
+    "取手市": {
+      "city": "取手市",
+      "ward": null
+    },
+    "牛久市": {
+      "city": "牛久市",
+      "ward": null
+    },
+    "つくば市": {
+      "city": "つくば市",
+      "ward": null
+    },
+    "茨城鹿嶋市": {
+      "city": "鹿嶋市",
+      "ward": null
+    },
+    "潮来市": {
+      "city": "潮来市",
+      "ward": null
+    },
+    "守谷市": {
+      "city": "守谷市",
+      "ward": null
+    },
+    "筑西市": {
+      "city": "筑西市",
+      "ward": null
+    },
+    "坂東市": {
+      "city": "坂東市",
+      "ward": null
+    },
+    "稲敷市": {
+      "city": "稲敷市",
+      "ward": null
+    },
+    "かすみがうら市": {
+      "city": "かすみがうら市",
+      "ward": null
+    },
+    "桜川市": {
+      "city": "桜川市",
+      "ward": null
+    },
+    "神栖市": {
+      "city": "神栖市",
+      "ward": null
+    },
+    "行方市": {
+      "city": "行方市",
+      "ward": null
+    },
+    "鉾田市": {
+      "city": "鉾田市",
+      "ward": null
+    },
+    "つくばみらい市": {
+      "city": "つくばみらい市",
+      "ward": null
+    },
+    "美浦村": {
+      "city": "美浦村",
+      "ward": null
+    },
+    "阿見町": {
+      "city": "阿見町",
+      "ward": null
+    },
+    "河内町": {
+      "city": "河内町",
+      "ward": null
+    },
+    "八千代町": {
+      "city": "八千代町",
+      "ward": null
+    },
+    "五霞町": {
+      "city": "五霞町",
+      "ward": null
+    },
+    "境町": {
+      "city": "境町",
+      "ward": null
+    },
+    "利根町": {
+      "city": "利根町",
+      "ward": null
+    }
+  },
+  "栃木県": {
+    "日光市": {
+      "city": "日光市",
+      "ward": null
+    },
+    "大田原市": {
+      "city": "大田原市",
+      "ward": null
+    },
+    "矢板市": {
+      "city": "矢板市",
+      "ward": null
+    },
+    "那須塩原市": {
+      "city": "那須塩原市",
+      "ward": null
+    },
+    "塩谷町": {
+      "city": "塩谷町",
+      "ward": null
+    },
+    "那須町": {
+      "city": "那須町",
+      "ward": null
+    },
+    "宇都宮市": {
+      "city": "宇都宮市",
+      "ward": null
+    },
+    "足利市": {
+      "city": "足利市",
+      "ward": null
+    },
+    "栃木市": {
+      "city": "栃木市",
+      "ward": null
+    },
+    "佐野市": {
+      "city": "佐野市",
+      "ward": null
+    },
+    "鹿沼市": {
+      "city": "鹿沼市",
+      "ward": null
+    },
+    "小山市": {
+      "city": "小山市",
+      "ward": null
+    },
+    "真岡市": {
+      "city": "真岡市",
+      "ward": null
+    },
+    "栃木さくら市": {
+      "city": "さくら市",
+      "ward": null
+    },
+    "那須烏山市": {
+      "city": "那須烏山市",
+      "ward": null
+    },
+    "下野市": {
+      "city": "下野市",
+      "ward": null
+    },
+    "上三川町": {
+      "city": "上三川町",
+      "ward": null
+    },
+    "益子町": {
+      "city": "益子町",
+      "ward": null
+    },
+    "茂木町": {
+      "city": "茂木町",
+      "ward": null
+    },
+    "市貝町": {
+      "city": "市貝町",
+      "ward": null
+    },
+    "芳賀町": {
+      "city": "芳賀町",
+      "ward": null
+    },
+    "壬生町": {
+      "city": "壬生町",
+      "ward": null
+    },
+    "野木町": {
+      "city": "野木町",
+      "ward": null
+    },
+    "高根沢町": {
+      "city": "高根沢町",
+      "ward": null
+    },
+    "栃木那珂川町": {
+      "city": "那珂川町",
+      "ward": null
+    }
+  },
+  "群馬県": {
+    "沼田市": {
+      "city": "沼田市",
+      "ward": null
+    },
+    "中之条町": {
+      "city": "中之条町",
+      "ward": null
+    },
+    "長野原町": {
+      "city": "長野原町",
+      "ward": null
+    },
+    "嬬恋村": {
+      "city": "嬬恋村",
+      "ward": null
+    },
+    "草津町": {
+      "city": "草津町",
+      "ward": null
+    },
+    "群馬高山村": {
+      "city": "高山村",
+      "ward": null
+    },
+    "東吾妻町": {
+      "city": "東吾妻町",
+      "ward": null
+    },
+    "片品村": {
+      "city": "片品村",
+      "ward": null
+    },
+    "川場村": {
+      "city": "川場村",
+      "ward": null
+    },
+    "群馬昭和村": {
+      "city": "昭和村",
+      "ward": null
+    },
+    "みなかみ町": {
+      "city": "みなかみ町",
+      "ward": null
+    },
+    "前橋市": {
+      "city": "前橋市",
+      "ward": null
+    },
+    "高崎市": {
+      "city": "高崎市",
+      "ward": null
+    },
+    "桐生市": {
+      "city": "桐生市",
+      "ward": null
+    },
+    "伊勢崎市": {
+      "city": "伊勢崎市",
+      "ward": null
+    },
+    "太田市": {
+      "city": "太田市",
+      "ward": null
+    },
+    "館林市": {
+      "city": "館林市",
+      "ward": null
+    },
+    "渋川市": {
+      "city": "渋川市",
+      "ward": null
+    },
+    "藤岡市": {
+      "city": "藤岡市",
+      "ward": null
+    },
+    "富岡市": {
+      "city": "富岡市",
+      "ward": null
+    },
+    "安中市": {
+      "city": "安中市",
+      "ward": null
+    },
+    "みどり市": {
+      "city": "みどり市",
+      "ward": null
+    },
+    "榛東村": {
+      "city": "榛東村",
+      "ward": null
+    },
+    "吉岡町": {
+      "city": "吉岡町",
+      "ward": null
+    },
+    "群馬上野村": {
+      "city": "上野村",
+      "ward": null
+    },
+    "神流町": {
+      "city": "神流町",
+      "ward": null
+    },
+    "下仁田町": {
+      "city": "下仁田町",
+      "ward": null
+    },
+    "群馬南牧村": {
+      "city": "南牧村",
+      "ward": null
+    },
+    "甘楽町": {
+      "city": "甘楽町",
+      "ward": null
+    },
+    "玉村町": {
+      "city": "玉村町",
+      "ward": null
+    },
+    "板倉町": {
+      "city": "板倉町",
+      "ward": null
+    },
+    "群馬明和町": {
+      "city": "明和町",
+      "ward": null
+    },
+    "千代田町": {
+      "city": "千代田町",
+      "ward": null
+    },
+    "大泉町": {
+      "city": "大泉町",
+      "ward": null
+    },
+    "邑楽町": {
+      "city": "邑楽町",
+      "ward": null
+    }
+  },
+  "埼玉県": {
+    "熊谷市": {
+      "city": "熊谷市",
+      "ward": null
+    },
+    "行田市": {
+      "city": "行田市",
+      "ward": null
+    },
+    "加須市": {
+      "city": "加須市",
+      "ward": null
+    },
+    "本庄市": {
+      "city": "本庄市",
+      "ward": null
+    },
+    "東松山市": {
+      "city": "東松山市",
+      "ward": null
+    },
+    "羽生市": {
+      "city": "羽生市",
+      "ward": null
+    },
+    "鴻巣市": {
+      "city": "鴻巣市",
+      "ward": null
+    },
+    "深谷市": {
+      "city": "深谷市",
+      "ward": null
+    },
+    "久喜市": {
+      "city": "久喜市",
+      "ward": null
+    },
+    "滑川町": {
+      "city": "滑川町",
+      "ward": null
+    },
+    "嵐山町": {
+      "city": "嵐山町",
+      "ward": null
+    },
+    "小川町": {
+      "city": "小川町",
+      "ward": null
+    },
+    "吉見町": {
+      "city": "吉見町",
+      "ward": null
+    },
+    "鳩山町": {
+      "city": "鳩山町",
+      "ward": null
+    },
+    "ときがわ町": {
+      "city": "ときがわ町",
+      "ward": null
+    },
+    "東秩父村": {
+      "city": "東秩父村",
+      "ward": null
+    },
+    "埼玉美里町": {
+      "city": "美里町",
+      "ward": null
+    },
+    "埼玉神川町": {
+      "city": "神川町",
+      "ward": null
+    },
+    "上里町": {
+      "city": "上里町",
+      "ward": null
+    },
+    "寄居町": {
+      "city": "寄居町",
+      "ward": null
+    },
+    "さいたま西区": {
+      "city": "さいたま市",
+      "ward": "西区"
+    },
+    "さいたま北区": {
+      "city": "さいたま市",
+      "ward": "北区"
+    },
+    "さいたま大宮区": {
+      "city": "さいたま市",
+      "ward": "大宮区"
+    },
+    "さいたま見沼区": {
+      "city": "さいたま市",
+      "ward": "見沼区"
+    },
+    "さいたま中央区": {
+      "city": "さいたま市",
+      "ward": "中央区"
+    },
+    "さいたま桜区": {
+      "city": "さいたま市",
+      "ward": "桜区"
+    },
+    "さいたま浦和区": {
+      "city": "さいたま市",
+      "ward": "浦和区"
+    },
+    "さいたま南区": {
+      "city": "さいたま市",
+      "ward": "南区"
+    },
+    "さいたま緑区": {
+      "city": "さいたま市",
+      "ward": "緑区"
+    },
+    "さいたま岩槻区": {
+      "city": "さいたま市",
+      "ward": "岩槻区"
+    },
+    "川越市": {
+      "city": "川越市",
+      "ward": null
+    },
+    "川口市": {
+      "city": "川口市",
+      "ward": null
+    },
+    "所沢市": {
+      "city": "所沢市",
+      "ward": null
+    },
+    "飯能市": {
+      "city": "飯能市",
+      "ward": null
+    },
+    "春日部市": {
+      "city": "春日部市",
+      "ward": null
+    },
+    "狭山市": {
+      "city": "狭山市",
+      "ward": null
+    },
+    "上尾市": {
+      "city": "上尾市",
+      "ward": null
+    },
+    "草加市": {
+      "city": "草加市",
+      "ward": null
+    },
+    "越谷市": {
+      "city": "越谷市",
+      "ward": null
+    },
+    "蕨市": {
+      "city": "蕨市",
+      "ward": null
+    },
+    "戸田市": {
+      "city": "戸田市",
+      "ward": null
+    },
+    "入間市": {
+      "city": "入間市",
+      "ward": null
+    },
+    "朝霞市": {
+      "city": "朝霞市",
+      "ward": null
+    },
+    "志木市": {
+      "city": "志木市",
+      "ward": null
+    },
+    "和光市": {
+      "city": "和光市",
+      "ward": null
+    },
+    "新座市": {
+      "city": "新座市",
+      "ward": null
+    },
+    "桶川市": {
+      "city": "桶川市",
+      "ward": null
+    },
+    "北本市": {
+      "city": "北本市",
+      "ward": null
+    },
+    "八潮市": {
+      "city": "八潮市",
+      "ward": null
+    },
+    "富士見市": {
+      "city": "富士見市",
+      "ward": null
+    },
+    "三郷市": {
+      "city": "三郷市",
+      "ward": null
+    },
+    "蓮田市": {
+      "city": "蓮田市",
+      "ward": null
+    },
+    "坂戸市": {
+      "city": "坂戸市",
+      "ward": null
+    },
+    "幸手市": {
+      "city": "幸手市",
+      "ward": null
+    },
+    "鶴ヶ島市": {
+      "city": "鶴ヶ島市",
+      "ward": null
+    },
+    "日高市": {
+      "city": "日高市",
+      "ward": null
+    },
+    "吉川市": {
+      "city": "吉川市",
+      "ward": null
+    },
+    "ふじみ野市": {
+      "city": "ふじみ野市",
+      "ward": null
+    },
+    "白岡市": {
+      "city": "白岡市",
+      "ward": null
+    },
+    "伊奈町": {
+      "city": "伊奈町",
+      "ward": null
+    },
+    "埼玉三芳町": {
+      "city": "三芳町",
+      "ward": null
+    },
+    "毛呂山町": {
+      "city": "毛呂山町",
+      "ward": null
+    },
+    "越生町": {
+      "city": "越生町",
+      "ward": null
+    },
+    "川島町": {
+      "city": "川島町",
+      "ward": null
+    },
+    "宮代町": {
+      "city": "宮代町",
+      "ward": null
+    },
+    "杉戸町": {
+      "city": "杉戸町",
+      "ward": null
+    },
+    "松伏町": {
+      "city": "松伏町",
+      "ward": null
+    },
+    "秩父市": {
+      "city": "秩父市",
+      "ward": null
+    },
+    "横瀬町": {
+      "city": "横瀬町",
+      "ward": null
+    },
+    "皆野町": {
+      "city": "皆野町",
+      "ward": null
+    },
+    "長瀞町": {
+      "city": "長瀞町",
+      "ward": null
+    },
+    "小鹿野町": {
+      "city": "小鹿野町",
+      "ward": null
+    }
+  },
+  "千葉県": {
+    "銚子市": {
+      "city": "銚子市",
+      "ward": null
+    },
+    "茂原市": {
+      "city": "茂原市",
+      "ward": null
+    },
+    "東金市": {
+      "city": "東金市",
+      "ward": null
+    },
+    "旭市": {
+      "city": "旭市",
+      "ward": null
+    },
+    "匝瑳市": {
+      "city": "匝瑳市",
+      "ward": null
+    },
+    "香取市": {
+      "city": "香取市",
+      "ward": null
+    },
+    "山武市": {
+      "city": "山武市",
+      "ward": null
+    },
+    "大網白里市": {
+      "city": "大網白里市",
+      "ward": null
+    },
+    "神崎町": {
+      "city": "神崎町",
+      "ward": null
+    },
+    "多古町": {
+      "city": "多古町",
+      "ward": null
+    },
+    "東庄町": {
+      "city": "東庄町",
+      "ward": null
+    },
+    "九十九里町": {
+      "city": "九十九里町",
+      "ward": null
+    },
+    "芝山町": {
+      "city": "芝山町",
+      "ward": null
+    },
+    "横芝光町": {
+      "city": "横芝光町",
+      "ward": null
+    },
+    "一宮町": {
+      "city": "一宮町",
+      "ward": null
+    },
+    "睦沢町": {
+      "city": "睦沢町",
+      "ward": null
+    },
+    "長生村": {
+      "city": "長生村",
+      "ward": null
+    },
+    "白子町": {
+      "city": "白子町",
+      "ward": null
+    },
+    "長柄町": {
+      "city": "長柄町",
+      "ward": null
+    },
+    "長南町": {
+      "city": "長南町",
+      "ward": null
+    },
+    "千葉中央区": {
+      "city": "千葉市",
+      "ward": "中央区"
+    },
+    "千葉花見川区": {
+      "city": "千葉市",
+      "ward": "花見川区"
+    },
+    "千葉稲毛区": {
+      "city": "千葉市",
+      "ward": "稲毛区"
+    },
+    "千葉若葉区": {
+      "city": "千葉市",
+      "ward": "若葉区"
+    },
+    "千葉緑区": {
+      "city": "千葉市",
+      "ward": "緑区"
+    },
+    "千葉美浜区": {
+      "city": "千葉市",
+      "ward": "美浜区"
+    },
+    "市川市": {
+      "city": "市川市",
+      "ward": null
+    },
+    "船橋市": {
+      "city": "船橋市",
+      "ward": null
+    },
+    "松戸市": {
+      "city": "松戸市",
+      "ward": null
+    },
+    "野田市": {
+      "city": "野田市",
+      "ward": null
+    },
+    "成田市": {
+      "city": "成田市",
+      "ward": null
+    },
+    "千葉佐倉市": {
+      "city": "佐倉市",
+      "ward": null
+    },
+    "習志野市": {
+      "city": "習志野市",
+      "ward": null
+    },
+    "柏市": {
+      "city": "柏市",
+      "ward": null
+    },
+    "市原市": {
+      "city": "市原市",
+      "ward": null
+    },
+    "流山市": {
+      "city": "流山市",
+      "ward": null
+    },
+    "八千代市": {
+      "city": "八千代市",
+      "ward": null
+    },
+    "我孫子市": {
+      "city": "我孫子市",
+      "ward": null
+    },
+    "鎌ケ谷市": {
+      "city": "鎌ケ谷市",
+      "ward": null
+    },
+    "浦安市": {
+      "city": "浦安市",
+      "ward": null
+    },
+    "四街道市": {
+      "city": "四街道市",
+      "ward": null
+    },
+    "八街市": {
+      "city": "八街市",
+      "ward": null
+    },
+    "印西市": {
+      "city": "印西市",
+      "ward": null
+    },
+    "白井市": {
+      "city": "白井市",
+      "ward": null
+    },
+    "富里市": {
+      "city": "富里市",
+      "ward": null
+    },
+    "酒々井町": {
+      "city": "酒々井町",
+      "ward": null
+    },
+    "栄町": {
+      "city": "栄町",
+      "ward": null
+    },
+    "館山市": {
+      "city": "館山市",
+      "ward": null
+    },
+    "木更津市": {
+      "city": "木更津市",
+      "ward": null
+    },
+    "勝浦市": {
+      "city": "勝浦市",
+      "ward": null
+    },
+    "鴨川市": {
+      "city": "鴨川市",
+      "ward": null
+    },
+    "君津市": {
+      "city": "君津市",
+      "ward": null
+    },
+    "富津市": {
+      "city": "富津市",
+      "ward": null
+    },
+    "袖ケ浦市": {
+      "city": "袖ケ浦市",
+      "ward": null
+    },
+    "南房総市": {
+      "city": "南房総市",
+      "ward": null
+    },
+    "いすみ市": {
+      "city": "いすみ市",
+      "ward": null
+    },
+    "大多喜町": {
+      "city": "大多喜町",
+      "ward": null
+    },
+    "御宿町": {
+      "city": "御宿町",
+      "ward": null
+    },
+    "鋸南町": {
+      "city": "鋸南町",
+      "ward": null
+    }
+  },
+  "東京都": {
+    "東京千代田区": {
+      "city": "千代田区",
+      "ward": null
+    },
+    "東京中央区": {
+      "city": "中央区",
+      "ward": null
+    },
+    "東京港区": {
+      "city": "港区",
+      "ward": null
+    },
+    "東京新宿区": {
+      "city": "新宿区",
+      "ward": null
+    },
+    "東京文京区": {
+      "city": "文京区",
+      "ward": null
+    },
+    "東京台東区": {
+      "city": "台東区",
+      "ward": null
+    },
+    "東京墨田区": {
+      "city": "墨田区",
+      "ward": null
+    },
+    "東京江東区": {
+      "city": "江東区",
+      "ward": null
+    },
+    "東京品川区": {
+      "city": "品川区",
+      "ward": null
+    },
+    "東京目黒区": {
+      "city": "目黒区",
+      "ward": null
+    },
+    "東京大田区": {
+      "city": "大田区",
+      "ward": null
+    },
+    "東京世田谷区": {
+      "city": "世田谷区",
+      "ward": null
+    },
+    "東京渋谷区": {
+      "city": "渋谷区",
+      "ward": null
+    },
+    "東京中野区": {
+      "city": "中野区",
+      "ward": null
+    },
+    "東京杉並区": {
+      "city": "杉並区",
+      "ward": null
+    },
+    "東京豊島区": {
+      "city": "豊島区",
+      "ward": null
+    },
+    "東京北区": {
+      "city": "北区",
+      "ward": null
+    },
+    "東京荒川区": {
+      "city": "荒川区",
+      "ward": null
+    },
+    "東京板橋区": {
+      "city": "板橋区",
+      "ward": null
+    },
+    "東京練馬区": {
+      "city": "練馬区",
+      "ward": null
+    },
+    "東京足立区": {
+      "city": "足立区",
+      "ward": null
+    },
+    "東京葛飾区": {
+      "city": "葛飾区",
+      "ward": null
+    },
+    "東京江戸川区": {
+      "city": "江戸川区",
+      "ward": null
+    },
+    "八王子市": {
+      "city": "八王子市",
+      "ward": null
+    },
+    "立川市": {
+      "city": "立川市",
+      "ward": null
+    },
+    "武蔵野市": {
+      "city": "武蔵野市",
+      "ward": null
+    },
+    "三鷹市": {
+      "city": "三鷹市",
+      "ward": null
+    },
+    "東京府中市": {
+      "city": "府中市",
+      "ward": null
+    },
+    "昭島市": {
+      "city": "昭島市",
+      "ward": null
+    },
+    "調布市": {
+      "city": "調布市",
+      "ward": null
+    },
+    "町田市": {
+      "city": "町田市",
+      "ward": null
+    },
+    "小金井市": {
+      "city": "小金井市",
+      "ward": null
+    },
+    "小平市": {
+      "city": "小平市",
+      "ward": null
+    },
+    "日野市": {
+      "city": "日野市",
+      "ward": null
+    },
+    "東村山市": {
+      "city": "東村山市",
+      "ward": null
+    },
+    "国分寺市": {
+      "city": "国分寺市",
+      "ward": null
+    },
+    "国立市": {
+      "city": "国立市",
+      "ward": null
+    },
+    "福生市": {
+      "city": "福生市",
+      "ward": null
+    },
+    "狛江市": {
+      "city": "狛江市",
+      "ward": null
+    },
+    "東大和市": {
+      "city": "東大和市",
+      "ward": null
+    },
+    "清瀬市": {
+      "city": "清瀬市",
+      "ward": null
+    },
+    "東久留米市": {
+      "city": "東久留米市",
+      "ward": null
+    },
+    "武蔵村山市": {
+      "city": "武蔵村山市",
+      "ward": null
+    },
+    "多摩市": {
+      "city": "多摩市",
+      "ward": null
+    },
+    "稲城市": {
+      "city": "稲城市",
+      "ward": null
+    },
+    "羽村市": {
+      "city": "羽村市",
+      "ward": null
+    },
+    "西東京市": {
+      "city": "西東京市",
+      "ward": null
+    },
+    "瑞穂町": {
+      "city": "瑞穂町",
+      "ward": null
+    },
+    "青梅市": {
+      "city": "青梅市",
+      "ward": null
+    },
+    "あきる野市": {
+      "city": "あきる野市",
+      "ward": null
+    },
+    "日の出町": {
+      "city": "日の出町",
+      "ward": null
+    },
+    "檜原村": {
+      "city": "檜原村",
+      "ward": null
+    },
+    "奥多摩町": {
+      "city": "奥多摩町",
+      "ward": null
+    },
+    "伊豆大島町": {
+      "city": "伊豆大島町",
+      "ward": null
+    },
+    "東京利島村": {
+      "city": "利島村",
+      "ward": null
+    },
+    "新島村": {
+      "city": "新島村",
+      "ward": null
+    },
+    "神津島村": {
+      "city": "神津島村",
+      "ward": null
+    },
+    "三宅村": {
+      "city": "三宅村",
+      "ward": null
+    },
+    "御蔵島村": {
+      "city": "御蔵島村",
+      "ward": null
+    },
+    "八丈町": {
+      "city": "八丈町",
+      "ward": null
+    },
+    "青ヶ島村": {
+      "city": "青ヶ島村",
+      "ward": null
+    },
+    "小笠原村": {
+      "city": "小笠原村",
+      "ward": null
+    }
+  },
+  "神奈川県": {
+    "横浜鶴見区": {
+      "city": "横浜市",
+      "ward": "鶴見区"
+    },
+    "横浜神奈川区": {
+      "city": "横浜市",
+      "ward": "神奈川区"
+    },
+    "横浜西区": {
+      "city": "横浜市",
+      "ward": "西区"
+    },
+    "横浜中区": {
+      "city": "横浜市",
+      "ward": "中区"
+    },
+    "横浜南区": {
+      "city": "横浜市",
+      "ward": "南区"
+    },
+    "横浜保土ケ谷区": {
+      "city": "横浜市",
+      "ward": "保土ケ谷区"
+    },
+    "横浜磯子区": {
+      "city": "横浜市",
+      "ward": "磯子区"
+    },
+    "横浜金沢区": {
+      "city": "横浜市",
+      "ward": "金沢区"
+    },
+    "横浜港北区": {
+      "city": "横浜市",
+      "ward": "港北区"
+    },
+    "横浜戸塚区": {
+      "city": "横浜市",
+      "ward": "戸塚区"
+    },
+    "横浜港南区": {
+      "city": "横浜市",
+      "ward": "港南区"
+    },
+    "横浜旭区": {
+      "city": "横浜市",
+      "ward": "旭区"
+    },
+    "横浜緑区": {
+      "city": "横浜市",
+      "ward": "緑区"
+    },
+    "横浜瀬谷区": {
+      "city": "横浜市",
+      "ward": "瀬谷区"
+    },
+    "横浜栄区": {
+      "city": "横浜市",
+      "ward": "栄区"
+    },
+    "横浜泉区": {
+      "city": "横浜市",
+      "ward": "泉区"
+    },
+    "横浜青葉区": {
+      "city": "横浜市",
+      "ward": "青葉区"
+    },
+    "横浜都筑区": {
+      "city": "横浜市",
+      "ward": "都筑区"
+    },
+    "川崎川崎区": {
+      "city": "川崎市",
+      "ward": "川崎区"
+    },
+    "川崎幸区": {
+      "city": "川崎市",
+      "ward": "幸区"
+    },
+    "川崎中原区": {
+      "city": "川崎市",
+      "ward": "中原区"
+    },
+    "川崎高津区": {
+      "city": "川崎市",
+      "ward": "高津区"
+    },
+    "川崎多摩区": {
+      "city": "川崎市",
+      "ward": "多摩区"
+    },
+    "川崎宮前区": {
+      "city": "川崎市",
+      "ward": "宮前区"
+    },
+    "川崎麻生区": {
+      "city": "川崎市",
+      "ward": "麻生区"
+    },
+    "横須賀市": {
+      "city": "横須賀市",
+      "ward": null
+    },
+    "平塚市": {
+      "city": "平塚市",
+      "ward": null
+    },
+    "鎌倉市": {
+      "city": "鎌倉市",
+      "ward": null
+    },
+    "藤沢市": {
+      "city": "藤沢市",
+      "ward": null
+    },
+    "茅ヶ崎市": {
+      "city": "茅ヶ崎市",
+      "ward": null
+    },
+    "逗子市": {
+      "city": "逗子市",
+      "ward": null
+    },
+    "三浦市": {
+      "city": "三浦市",
+      "ward": null
+    },
+    "大和市": {
+      "city": "大和市",
+      "ward": null
+    },
+    "海老名市": {
+      "city": "海老名市",
+      "ward": null
+    },
+    "座間市": {
+      "city": "座間市",
+      "ward": null
+    },
+    "綾瀬市": {
+      "city": "綾瀬市",
+      "ward": null
+    },
+    "葉山町": {
+      "city": "葉山町",
+      "ward": null
+    },
+    "寒川町": {
+      "city": "寒川町",
+      "ward": null
+    },
+    "大磯町": {
+      "city": "大磯町",
+      "ward": null
+    },
+    "二宮町": {
+      "city": "二宮町",
+      "ward": null
+    },
+    "相模原緑区": {
+      "city": "相模原市",
+      "ward": "緑区"
+    },
+    "相模原中央区": {
+      "city": "相模原市",
+      "ward": "中央区"
+    },
+    "相模原南区": {
+      "city": "相模原市",
+      "ward": "南区"
+    },
+    "小田原市": {
+      "city": "小田原市",
+      "ward": null
+    },
+    "秦野市": {
+      "city": "秦野市",
+      "ward": null
+    },
+    "厚木市": {
+      "city": "厚木市",
+      "ward": null
+    },
+    "伊勢原市": {
+      "city": "伊勢原市",
+      "ward": null
+    },
+    "南足柄市": {
+      "city": "南足柄市",
+      "ward": null
+    },
+    "中井町": {
+      "city": "中井町",
+      "ward": null
+    },
+    "神奈川大井町": {
+      "city": "大井町",
+      "ward": null
+    },
+    "松田町": {
+      "city": "松田町",
+      "ward": null
+    },
+    "山北町": {
+      "city": "山北町",
+      "ward": null
+    },
+    "開成町": {
+      "city": "開成町",
+      "ward": null
+    },
+    "箱根町": {
+      "city": "箱根町",
+      "ward": null
+    },
+    "真鶴町": {
+      "city": "真鶴町",
+      "ward": null
+    },
+    "湯河原町": {
+      "city": "湯河原町",
+      "ward": null
+    },
+    "愛川町": {
+      "city": "愛川町",
+      "ward": null
+    },
+    "清川村": {
+      "city": "清川村",
+      "ward": null
+    }
+  },
+  "新潟県": {
+    "糸魚川市": {
+      "city": "糸魚川市",
+      "ward": null
+    },
+    "妙高市": {
+      "city": "妙高市",
+      "ward": null
+    },
+    "上越市": {
+      "city": "上越市",
+      "ward": null
+    },
+    "長岡市": {
+      "city": "長岡市",
+      "ward": null
+    },
+    "三条市": {
+      "city": "三条市",
+      "ward": null
+    },
+    "柏崎市": {
+      "city": "柏崎市",
+      "ward": null
+    },
+    "小千谷市": {
+      "city": "小千谷市",
+      "ward": null
+    },
+    "加茂市": {
+      "city": "加茂市",
+      "ward": null
+    },
+    "十日町市": {
+      "city": "十日町市",
+      "ward": null
+    },
+    "見附市": {
+      "city": "見附市",
+      "ward": null
+    },
+    "魚沼市": {
+      "city": "魚沼市",
+      "ward": null
+    },
+    "南魚沼市": {
+      "city": "南魚沼市",
+      "ward": null
+    },
+    "田上町": {
+      "city": "田上町",
+      "ward": null
+    },
+    "出雲崎町": {
+      "city": "出雲崎町",
+      "ward": null
+    },
+    "湯沢町": {
+      "city": "湯沢町",
+      "ward": null
+    },
+    "津南町": {
+      "city": "津南町",
+      "ward": null
+    },
+    "刈羽村": {
+      "city": "刈羽村",
+      "ward": null
+    },
+    "新潟北区": {
+      "city": "新潟市",
+      "ward": "北区"
+    },
+    "新潟東区": {
+      "city": "新潟市",
+      "ward": "東区"
+    },
+    "新潟中央区": {
+      "city": "新潟市",
+      "ward": "中央区"
+    },
+    "新潟江南区": {
+      "city": "新潟市",
+      "ward": "江南区"
+    },
+    "新潟秋葉区": {
+      "city": "新潟市",
+      "ward": "秋葉区"
+    },
+    "新潟南区": {
+      "city": "新潟市",
+      "ward": "南区"
+    },
+    "新潟西区": {
+      "city": "新潟市",
+      "ward": "西区"
+    },
+    "新潟西蒲区": {
+      "city": "新潟市",
+      "ward": "西蒲区"
+    },
+    "新発田市": {
+      "city": "新発田市",
+      "ward": null
+    },
+    "村上市": {
+      "city": "村上市",
+      "ward": null
+    },
+    "燕市": {
+      "city": "燕市",
+      "ward": null
+    },
+    "五泉市": {
+      "city": "五泉市",
+      "ward": null
+    },
+    "阿賀野市": {
+      "city": "阿賀野市",
+      "ward": null
+    },
+    "胎内市": {
+      "city": "胎内市",
+      "ward": null
+    },
+    "聖籠町": {
+      "city": "聖籠町",
+      "ward": null
+    },
+    "弥彦村": {
+      "city": "弥彦村",
+      "ward": null
+    },
+    "阿賀町": {
+      "city": "阿賀町",
+      "ward": null
+    },
+    "関川村": {
+      "city": "関川村",
+      "ward": null
+    },
+    "粟島浦村": {
+      "city": "粟島浦村",
+      "ward": null
+    },
+    "佐渡市": {
+      "city": "佐渡市",
+      "ward": null
+    }
+  },
+  "富山県": {
+    "富山市": {
+      "city": "富山市",
+      "ward": null
+    },
+    "魚津市": {
+      "city": "魚津市",
+      "ward": null
+    },
+    "滑川市": {
+      "city": "滑川市",
+      "ward": null
+    },
+    "黒部市": {
+      "city": "黒部市",
+      "ward": null
+    },
+    "舟橋村": {
+      "city": "舟橋村",
+      "ward": null
+    },
+    "上市町": {
+      "city": "上市町",
+      "ward": null
+    },
+    "立山町": {
+      "city": "立山町",
+      "ward": null
+    },
+    "入善町": {
+      "city": "入善町",
+      "ward": null
+    },
+    "富山朝日町": {
+      "city": "朝日町",
+      "ward": null
+    },
+    "高岡市": {
+      "city": "高岡市",
+      "ward": null
+    },
+    "氷見市": {
+      "city": "氷見市",
+      "ward": null
+    },
+    "砺波市": {
+      "city": "砺波市",
+      "ward": null
+    },
+    "小矢部市": {
+      "city": "小矢部市",
+      "ward": null
+    },
+    "南砺市": {
+      "city": "南砺市",
+      "ward": null
+    },
+    "射水市": {
+      "city": "射水市",
+      "ward": null
+    }
+  },
+  "石川県": {
+    "七尾市": {
+      "city": "七尾市",
+      "ward": null
+    },
+    "輪島市": {
+      "city": "輪島市",
+      "ward": null
+    },
+    "珠洲市": {
+      "city": "珠洲市",
+      "ward": null
+    },
+    "羽咋市": {
+      "city": "羽咋市",
+      "ward": null
+    },
+    "志賀町": {
+      "city": "志賀町",
+      "ward": null
+    },
+    "宝達志水町": {
+      "city": "宝達志水町",
+      "ward": null
+    },
+    "中能登町": {
+      "city": "中能登町",
+      "ward": null
+    },
+    "穴水町": {
+      "city": "穴水町",
+      "ward": null
+    },
+    "能登町": {
+      "city": "能登町",
+      "ward": null
+    },
+    "金沢市": {
+      "city": "金沢市",
+      "ward": null
+    },
+    "小松市": {
+      "city": "小松市",
+      "ward": null
+    },
+    "加賀市": {
+      "city": "加賀市",
+      "ward": null
+    },
+    "かほく市": {
+      "city": "かほく市",
+      "ward": null
+    },
+    "白山市": {
+      "city": "白山市",
+      "ward": null
+    },
+    "能美市": {
+      "city": "能美市",
+      "ward": null
+    },
+    "野々市市": {
+      "city": "野々市市",
+      "ward": null
+    },
+    "川北町": {
+      "city": "川北町",
+      "ward": null
+    },
+    "津幡町": {
+      "city": "津幡町",
+      "ward": null
+    },
+    "内灘町": {
+      "city": "内灘町",
+      "ward": null
+    }
+  },
+  "福井県": {
+    "福井市": {
+      "city": "福井市",
+      "ward": null
+    },
+    "大野市": {
+      "city": "大野市",
+      "ward": null
+    },
+    "勝山市": {
+      "city": "勝山市",
+      "ward": null
+    },
+    "鯖江市": {
+      "city": "鯖江市",
+      "ward": null
+    },
+    "あわら市": {
+      "city": "あわら市",
+      "ward": null
+    },
+    "越前市": {
+      "city": "越前市",
+      "ward": null
+    },
+    "福井坂井市": {
+      "city": "坂井市",
+      "ward": null
+    },
+    "永平寺町": {
+      "city": "永平寺町",
+      "ward": null
+    },
+    "福井池田町": {
+      "city": "池田町",
+      "ward": null
+    },
+    "南越前町": {
+      "city": "南越前町",
+      "ward": null
+    },
+    "越前町": {
+      "city": "越前町",
+      "ward": null
+    },
+    "敦賀市": {
+      "city": "敦賀市",
+      "ward": null
+    },
+    "小浜市": {
+      "city": "小浜市",
+      "ward": null
+    },
+    "福井美浜町": {
+      "city": "美浜町",
+      "ward": null
+    },
+    "高浜町": {
+      "city": "高浜町",
+      "ward": null
+    },
+    "福井おおい町": {
+      "city": "おおい町",
+      "ward": null
+    },
+    "福井若狭町": {
+      "city": "若狭町",
+      "ward": null
+    }
+  },
+  "山梨県": {
+    "富士吉田市": {
+      "city": "富士吉田市",
+      "ward": null
+    },
+    "都留市": {
+      "city": "都留市",
+      "ward": null
+    },
+    "大月市": {
+      "city": "大月市",
+      "ward": null
+    },
+    "上野原市": {
+      "city": "上野原市",
+      "ward": null
+    },
+    "道志村": {
+      "city": "道志村",
+      "ward": null
+    },
+    "西桂町": {
+      "city": "西桂町",
+      "ward": null
+    },
+    "忍野村": {
+      "city": "忍野村",
+      "ward": null
+    },
+    "山中湖村": {
+      "city": "山中湖村",
+      "ward": null
+    },
+    "鳴沢村": {
+      "city": "鳴沢村",
+      "ward": null
+    },
+    "富士河口湖町": {
+      "city": "富士河口湖町",
+      "ward": null
+    },
+    "小菅村": {
+      "city": "小菅村",
+      "ward": null
+    },
+    "丹波山村": {
+      "city": "丹波山村",
+      "ward": null
+    },
+    "甲府市": {
+      "city": "甲府市",
+      "ward": null
+    },
+    "山梨市": {
+      "city": "山梨市",
+      "ward": null
+    },
+    "韮崎市": {
+      "city": "韮崎市",
+      "ward": null
+    },
+    "南アルプス市": {
+      "city": "南アルプス市",
+      "ward": null
+    },
+    "山梨北杜市": {
+      "city": "北杜市",
+      "ward": null
+    },
+    "甲斐市": {
+      "city": "甲斐市",
+      "ward": null
+    },
+    "笛吹市": {
+      "city": "笛吹市",
+      "ward": null
+    },
+    "甲州市": {
+      "city": "甲州市",
+      "ward": null
+    },
+    "中央市": {
+      "city": "中央市",
+      "ward": null
+    },
+    "市川三郷町": {
+      "city": "市川三郷町",
+      "ward": null
+    },
+    "早川町": {
+      "city": "早川町",
+      "ward": null
+    },
+    "身延町": {
+      "city": "身延町",
+      "ward": null
+    },
+    "山梨南部町": {
+      "city": "南部町",
+      "ward": null
+    },
+    "富士川町": {
+      "city": "富士川町",
+      "ward": null
+    },
+    "昭和町": {
+      "city": "昭和町",
+      "ward": null
+    }
+  },
+  "長野県": {
+    "長野市": {
+      "city": "長野市",
+      "ward": null
+    },
+    "須坂市": {
+      "city": "須坂市",
+      "ward": null
+    },
+    "中野市": {
+      "city": "中野市",
+      "ward": null
+    },
+    "大町市": {
+      "city": "大町市",
+      "ward": null
+    },
+    "飯山市": {
+      "city": "飯山市",
+      "ward": null
+    },
+    "千曲市": {
+      "city": "千曲市",
+      "ward": null
+    },
+    "長野池田町": {
+      "city": "池田町",
+      "ward": null
+    },
+    "松川村": {
+      "city": "松川村",
+      "ward": null
+    },
+    "白馬村": {
+      "city": "白馬村",
+      "ward": null
+    },
+    "小谷村": {
+      "city": "小谷村",
+      "ward": null
+    },
+    "坂城町": {
+      "city": "坂城町",
+      "ward": null
+    },
+    "小布施町": {
+      "city": "小布施町",
+      "ward": null
+    },
+    "長野高山村": {
+      "city": "高山村",
+      "ward": null
+    },
+    "山ノ内町": {
+      "city": "山ノ内町",
+      "ward": null
+    },
+    "木島平村": {
+      "city": "木島平村",
+      "ward": null
+    },
+    "野沢温泉村": {
+      "city": "野沢温泉村",
+      "ward": null
+    },
+    "信濃町": {
+      "city": "信濃町",
+      "ward": null
+    },
+    "小川村": {
+      "city": "小川村",
+      "ward": null
+    },
+    "飯綱町": {
+      "city": "飯綱町",
+      "ward": null
+    },
+    "栄村": {
+      "city": "栄村",
+      "ward": null
+    },
+    "松本市": {
+      "city": "松本市",
+      "ward": null
+    },
+    "上田市": {
+      "city": "上田市",
+      "ward": null
+    },
+    "岡谷市": {
+      "city": "岡谷市",
+      "ward": null
+    },
+    "諏訪市": {
+      "city": "諏訪市",
+      "ward": null
+    },
+    "小諸市": {
+      "city": "小諸市",
+      "ward": null
+    },
+    "茅野市": {
+      "city": "茅野市",
+      "ward": null
+    },
+    "塩尻市": {
+      "city": "塩尻市",
+      "ward": null
+    },
+    "佐久市": {
+      "city": "佐久市",
+      "ward": null
+    },
+    "東御市": {
+      "city": "東御市",
+      "ward": null
+    },
+    "安曇野市": {
+      "city": "安曇野市",
+      "ward": null
+    },
+    "小海町": {
+      "city": "小海町",
+      "ward": null
+    },
+    "長野川上村": {
+      "city": "川上村",
+      "ward": null
+    },
+    "長野南牧村": {
+      "city": "南牧村",
+      "ward": null
+    },
+    "南相木村": {
+      "city": "南相木村",
+      "ward": null
+    },
+    "北相木村": {
+      "city": "北相木村",
+      "ward": null
+    },
+    "佐久穂町": {
+      "city": "佐久穂町",
+      "ward": null
+    },
+    "軽井沢町": {
+      "city": "軽井沢町",
+      "ward": null
+    },
+    "御代田町": {
+      "city": "御代田町",
+      "ward": null
+    },
+    "立科町": {
+      "city": "立科町",
+      "ward": null
+    },
+    "青木村": {
+      "city": "青木村",
+      "ward": null
+    },
+    "長和町": {
+      "city": "長和町",
+      "ward": null
+    },
+    "下諏訪町": {
+      "city": "下諏訪町",
+      "ward": null
+    },
+    "富士見町": {
+      "city": "富士見町",
+      "ward": null
+    },
+    "原村": {
+      "city": "原村",
+      "ward": null
+    },
+    "麻績村": {
+      "city": "麻績村",
+      "ward": null
+    },
+    "生坂村": {
+      "city": "生坂村",
+      "ward": null
+    },
+    "山形村": {
+      "city": "山形村",
+      "ward": null
+    },
+    "朝日村": {
+      "city": "朝日村",
+      "ward": null
+    },
+    "筑北村": {
+      "city": "筑北村",
+      "ward": null
+    },
+    "飯田市": {
+      "city": "飯田市",
+      "ward": null
+    },
+    "伊那市": {
+      "city": "伊那市",
+      "ward": null
+    },
+    "駒ヶ根市": {
+      "city": "駒ヶ根市",
+      "ward": null
+    },
+    "辰野町": {
+      "city": "辰野町",
+      "ward": null
+    },
+    "箕輪町": {
+      "city": "箕輪町",
+      "ward": null
+    },
+    "飯島町": {
+      "city": "飯島町",
+      "ward": null
+    },
+    "南箕輪村": {
+      "city": "南箕輪村",
+      "ward": null
+    },
+    "中川村": {
+      "city": "中川村",
+      "ward": null
+    },
+    "宮田村": {
+      "city": "宮田村",
+      "ward": null
+    },
+    "松川町": {
+      "city": "松川町",
+      "ward": null
+    },
+    "長野高森町": {
+      "city": "高森町",
+      "ward": null
+    },
+    "阿南町": {
+      "city": "阿南町",
+      "ward": null
+    },
+    "阿智村": {
+      "city": "阿智村",
+      "ward": null
+    },
+    "平谷村": {
+      "city": "平谷村",
+      "ward": null
+    },
+    "根羽村": {
+      "city": "根羽村",
+      "ward": null
+    },
+    "下條村": {
+      "city": "下條村",
+      "ward": null
+    },
+    "売木村": {
+      "city": "売木村",
+      "ward": null
+    },
+    "天龍村": {
+      "city": "天龍村",
+      "ward": null
+    },
+    "泰阜村": {
+      "city": "泰阜村",
+      "ward": null
+    },
+    "喬木村": {
+      "city": "喬木村",
+      "ward": null
+    },
+    "豊丘村": {
+      "city": "豊丘村",
+      "ward": null
+    },
+    "大鹿村": {
+      "city": "大鹿村",
+      "ward": null
+    },
+    "上松町": {
+      "city": "上松町",
+      "ward": null
+    },
+    "南木曽町": {
+      "city": "南木曽町",
+      "ward": null
+    },
+    "木祖村": {
+      "city": "木祖村",
+      "ward": null
+    },
+    "王滝村": {
+      "city": "王滝村",
+      "ward": null
+    },
+    "大桑村": {
+      "city": "大桑村",
+      "ward": null
+    },
+    "木曽町": {
+      "city": "木曽町",
+      "ward": null
+    }
+  },
+  "岐阜県": {
+    "高山市": {
+      "city": "高山市",
+      "ward": null
+    },
+    "飛騨市": {
+      "city": "飛騨市",
+      "ward": null
+    },
+    "下呂市": {
+      "city": "下呂市",
+      "ward": null
+    },
+    "白川村": {
+      "city": "白川村",
+      "ward": null
+    },
+    "多治見市": {
+      "city": "多治見市",
+      "ward": null
+    },
+    "中津川市": {
+      "city": "中津川市",
+      "ward": null
+    },
+    "瑞浪市": {
+      "city": "瑞浪市",
+      "ward": null
+    },
+    "恵那市": {
+      "city": "恵那市",
+      "ward": null
+    },
+    "美濃加茂市": {
+      "city": "美濃加茂市",
+      "ward": null
+    },
+    "土岐市": {
+      "city": "土岐市",
+      "ward": null
+    },
+    "可児市": {
+      "city": "可児市",
+      "ward": null
+    },
+    "坂祝町": {
+      "city": "坂祝町",
+      "ward": null
+    },
+    "富加町": {
+      "city": "富加町",
+      "ward": null
+    },
+    "川辺町": {
+      "city": "川辺町",
+      "ward": null
+    },
+    "七宗町": {
+      "city": "七宗町",
+      "ward": null
+    },
+    "八百津町": {
+      "city": "八百津町",
+      "ward": null
+    },
+    "白川町": {
+      "city": "白川町",
+      "ward": null
+    },
+    "東白川村": {
+      "city": "東白川村",
+      "ward": null
+    },
+    "御嵩町": {
+      "city": "御嵩町",
+      "ward": null
+    },
+    "岐阜市": {
+      "city": "岐阜市",
+      "ward": null
+    },
+    "大垣市": {
+      "city": "大垣市",
+      "ward": null
+    },
+    "関市": {
+      "city": "関市",
+      "ward": null
+    },
+    "美濃市": {
+      "city": "美濃市",
+      "ward": null
+    },
+    "羽島市": {
+      "city": "羽島市",
+      "ward": null
+    },
+    "各務原市": {
+      "city": "各務原市",
+      "ward": null
+    },
+    "岐阜山県市": {
+      "city": "山県市",
+      "ward": null
+    },
+    "瑞穂市": {
+      "city": "瑞穂市",
+      "ward": null
+    },
+    "本巣市": {
+      "city": "本巣市",
+      "ward": null
+    },
+    "郡上市": {
+      "city": "郡上市",
+      "ward": null
+    },
+    "海津市": {
+      "city": "海津市",
+      "ward": null
+    },
+    "岐南町": {
+      "city": "岐南町",
+      "ward": null
+    },
+    "笠松町": {
+      "city": "笠松町",
+      "ward": null
+    },
+    "養老町": {
+      "city": "養老町",
+      "ward": null
+    },
+    "垂井町": {
+      "city": "垂井町",
+      "ward": null
+    },
+    "関ケ原町": {
+      "city": "関ケ原町",
+      "ward": null
+    },
+    "神戸町": {
+      "city": "神戸町",
+      "ward": null
+    },
+    "輪之内町": {
+      "city": "輪之内町",
+      "ward": null
+    },
+    "安八町": {
+      "city": "安八町",
+      "ward": null
+    },
+    "揖斐川町": {
+      "city": "揖斐川町",
+      "ward": null
+    },
+    "大野町": {
+      "city": "大野町",
+      "ward": null
+    },
+    "岐阜池田町": {
+      "city": "池田町",
+      "ward": null
+    },
+    "北方町": {
+      "city": "北方町",
+      "ward": null
+    }
+  },
+  "静岡県": {
+    "熱海市": {
+      "city": "熱海市",
+      "ward": null
+    },
+    "伊東市": {
+      "city": "伊東市",
+      "ward": null
+    },
+    "下田市": {
+      "city": "下田市",
+      "ward": null
+    },
+    "伊豆市": {
+      "city": "伊豆市",
+      "ward": null
+    },
+    "伊豆の国市": {
+      "city": "伊豆の国市",
+      "ward": null
+    },
+    "東伊豆町": {
+      "city": "東伊豆町",
+      "ward": null
+    },
+    "河津町": {
+      "city": "河津町",
+      "ward": null
+    },
+    "南伊豆町": {
+      "city": "南伊豆町",
+      "ward": null
+    },
+    "松崎町": {
+      "city": "松崎町",
+      "ward": null
+    },
+    "西伊豆町": {
+      "city": "西伊豆町",
+      "ward": null
+    },
+    "函南町": {
+      "city": "函南町",
+      "ward": null
+    },
+    "沼津市": {
+      "city": "沼津市",
+      "ward": null
+    },
+    "三島市": {
+      "city": "三島市",
+      "ward": null
+    },
+    "富士宮市": {
+      "city": "富士宮市",
+      "ward": null
+    },
+    "富士市": {
+      "city": "富士市",
+      "ward": null
+    },
+    "御殿場市": {
+      "city": "御殿場市",
+      "ward": null
+    },
+    "裾野市": {
+      "city": "裾野市",
+      "ward": null
+    },
+    "静岡清水町": {
+      "city": "清水町",
+      "ward": null
+    },
+    "長泉町": {
+      "city": "長泉町",
+      "ward": null
+    },
+    "小山町": {
+      "city": "小山町",
+      "ward": null
+    },
+    "静岡葵区": {
+      "city": "静岡市",
+      "ward": "葵区"
+    },
+    "静岡駿河区": {
+      "city": "静岡市",
+      "ward": "駿河区"
+    },
+    "静岡清水区": {
+      "city": "静岡市",
+      "ward": "清水区"
+    },
+    "島田市": {
+      "city": "島田市",
+      "ward": null
+    },
+    "焼津市": {
+      "city": "焼津市",
+      "ward": null
+    },
+    "藤枝市": {
+      "city": "藤枝市",
+      "ward": null
+    },
+    "牧之原市": {
+      "city": "牧之原市",
+      "ward": null
+    },
+    "吉田町": {
+      "city": "吉田町",
+      "ward": null
+    },
+    "川根本町": {
+      "city": "川根本町",
+      "ward": null
+    },
+    "浜松中央区": {
+      "city": "浜松市",
+      "ward": "中央区"
+    },
+    "浜松浜名区": {
+      "city": "浜松市",
+      "ward": "浜名区"
+    },
+    "浜松天竜区": {
+      "city": "浜松市",
+      "ward": "天竜区"
+    },
+    "磐田市": {
+      "city": "磐田市",
+      "ward": null
+    },
+    "掛川市": {
+      "city": "掛川市",
+      "ward": null
+    },
+    "袋井市": {
+      "city": "袋井市",
+      "ward": null
+    },
+    "湖西市": {
+      "city": "湖西市",
+      "ward": null
+    },
+    "御前崎市": {
+      "city": "御前崎市",
+      "ward": null
+    },
+    "菊川市": {
+      "city": "菊川市",
+      "ward": null
+    },
+    "静岡森町": {
+      "city": "森町",
+      "ward": null
+    }
+  },
+  "愛知県": {
+    "豊橋市": {
+      "city": "豊橋市",
+      "ward": null
+    },
+    "豊川市": {
+      "city": "豊川市",
+      "ward": null
+    },
+    "蒲郡市": {
+      "city": "蒲郡市",
+      "ward": null
+    },
+    "新城市": {
+      "city": "新城市",
+      "ward": null
+    },
+    "田原市": {
+      "city": "田原市",
+      "ward": null
+    },
+    "設楽町": {
+      "city": "設楽町",
+      "ward": null
+    },
+    "東栄町": {
+      "city": "東栄町",
+      "ward": null
+    },
+    "豊根村": {
+      "city": "豊根村",
+      "ward": null
+    },
+    "名古屋千種区": {
+      "city": "名古屋市",
+      "ward": "千種区"
+    },
+    "名古屋東区": {
+      "city": "名古屋市",
+      "ward": "東区"
+    },
+    "名古屋北区": {
+      "city": "名古屋市",
+      "ward": "北区"
+    },
+    "名古屋西区": {
+      "city": "名古屋市",
+      "ward": "西区"
+    },
+    "名古屋中村区": {
+      "city": "名古屋市",
+      "ward": "中村区"
+    },
+    "名古屋中区": {
+      "city": "名古屋市",
+      "ward": "中区"
+    },
+    "名古屋昭和区": {
+      "city": "名古屋市",
+      "ward": "昭和区"
+    },
+    "名古屋瑞穂区": {
+      "city": "名古屋市",
+      "ward": "瑞穂区"
+    },
+    "名古屋熱田区": {
+      "city": "名古屋市",
+      "ward": "熱田区"
+    },
+    "名古屋中川区": {
+      "city": "名古屋市",
+      "ward": "中川区"
+    },
+    "名古屋港区": {
+      "city": "名古屋市",
+      "ward": "港区"
+    },
+    "名古屋南区": {
+      "city": "名古屋市",
+      "ward": "南区"
+    },
+    "名古屋守山区": {
+      "city": "名古屋市",
+      "ward": "守山区"
+    },
+    "名古屋緑区": {
+      "city": "名古屋市",
+      "ward": "緑区"
+    },
+    "名古屋名東区": {
+      "city": "名古屋市",
+      "ward": "名東区"
+    },
+    "名古屋天白区": {
+      "city": "名古屋市",
+      "ward": "天白区"
+    },
+    "岡崎市": {
+      "city": "岡崎市",
+      "ward": null
+    },
+    "一宮市": {
+      "city": "一宮市",
+      "ward": null
+    },
+    "瀬戸市": {
+      "city": "瀬戸市",
+      "ward": null
+    },
+    "半田市": {
+      "city": "半田市",
+      "ward": null
+    },
+    "春日井市": {
+      "city": "春日井市",
+      "ward": null
+    },
+    "愛知津島市": {
+      "city": "津島市",
+      "ward": null
+    },
+    "碧南市": {
+      "city": "碧南市",
+      "ward": null
+    },
+    "刈谷市": {
+      "city": "刈谷市",
+      "ward": null
+    },
+    "豊田市": {
+      "city": "豊田市",
+      "ward": null
+    },
+    "安城市": {
+      "city": "安城市",
+      "ward": null
+    },
+    "西尾市": {
+      "city": "西尾市",
+      "ward": null
+    },
+    "犬山市": {
+      "city": "犬山市",
+      "ward": null
+    },
+    "常滑市": {
+      "city": "常滑市",
+      "ward": null
+    },
+    "愛知江南市": {
+      "city": "江南市",
+      "ward": null
+    },
+    "小牧市": {
+      "city": "小牧市",
+      "ward": null
+    },
+    "稲沢市": {
+      "city": "稲沢市",
+      "ward": null
+    },
+    "東海市": {
+      "city": "東海市",
+      "ward": null
+    },
+    "大府市": {
+      "city": "大府市",
+      "ward": null
+    },
+    "知多市": {
+      "city": "知多市",
+      "ward": null
+    },
+    "知立市": {
+      "city": "知立市",
+      "ward": null
+    },
+    "尾張旭市": {
+      "city": "尾張旭市",
+      "ward": null
+    },
+    "高浜市": {
+      "city": "高浜市",
+      "ward": null
+    },
+    "岩倉市": {
+      "city": "岩倉市",
+      "ward": null
+    },
+    "豊明市": {
+      "city": "豊明市",
+      "ward": null
+    },
+    "日進市": {
+      "city": "日進市",
+      "ward": null
+    },
+    "愛西市": {
+      "city": "愛西市",
+      "ward": null
+    },
+    "清須市": {
+      "city": "清須市",
+      "ward": null
+    },
+    "北名古屋市": {
+      "city": "北名古屋市",
+      "ward": null
+    },
+    "弥富市": {
+      "city": "弥富市",
+      "ward": null
+    },
+    "愛知みよし市": {
+      "city": "みよし市",
+      "ward": null
+    },
+    "あま市": {
+      "city": "あま市",
+      "ward": null
+    },
+    "長久手市": {
+      "city": "長久手市",
+      "ward": null
+    },
+    "東郷町": {
+      "city": "東郷町",
+      "ward": null
+    },
+    "豊山町": {
+      "city": "豊山町",
+      "ward": null
+    },
+    "大口町": {
+      "city": "大口町",
+      "ward": null
+    },
+    "扶桑町": {
+      "city": "扶桑町",
+      "ward": null
+    },
+    "大治町": {
+      "city": "大治町",
+      "ward": null
+    },
+    "蟹江町": {
+      "city": "蟹江町",
+      "ward": null
+    },
+    "飛島村": {
+      "city": "飛島村",
+      "ward": null
+    },
+    "阿久比町": {
+      "city": "阿久比町",
+      "ward": null
+    },
+    "東浦町": {
+      "city": "東浦町",
+      "ward": null
+    },
+    "南知多町": {
+      "city": "南知多町",
+      "ward": null
+    },
+    "愛知美浜町": {
+      "city": "美浜町",
+      "ward": null
+    },
+    "武豊町": {
+      "city": "武豊町",
+      "ward": null
+    },
+    "幸田町": {
+      "city": "幸田町",
+      "ward": null
+    }
+  },
+  "三重県": {
+    "四日市市": {
+      "city": "四日市市",
+      "ward": null
+    },
+    "桑名市": {
+      "city": "桑名市",
+      "ward": null
+    },
+    "鈴鹿市": {
+      "city": "鈴鹿市",
+      "ward": null
+    },
+    "亀山市": {
+      "city": "亀山市",
+      "ward": null
+    },
+    "いなべ市": {
+      "city": "いなべ市",
+      "ward": null
+    },
+    "木曽岬町": {
+      "city": "木曽岬町",
+      "ward": null
+    },
+    "東員町": {
+      "city": "東員町",
+      "ward": null
+    },
+    "菰野町": {
+      "city": "菰野町",
+      "ward": null
+    },
+    "三重朝日町": {
+      "city": "朝日町",
+      "ward": null
+    },
+    "川越町": {
+      "city": "川越町",
+      "ward": null
+    },
+    "津市": {
+      "city": "津市",
+      "ward": null
+    },
+    "松阪市": {
+      "city": "松阪市",
+      "ward": null
+    },
+    "名張市": {
+      "city": "名張市",
+      "ward": null
+    },
+    "伊賀市": {
+      "city": "伊賀市",
+      "ward": null
+    },
+    "多気町": {
+      "city": "多気町",
+      "ward": null
+    },
+    "三重明和町": {
+      "city": "明和町",
+      "ward": null
+    },
+    "伊勢市": {
+      "city": "伊勢市",
+      "ward": null
+    },
+    "尾鷲市": {
+      "city": "尾鷲市",
+      "ward": null
+    },
+    "鳥羽市": {
+      "city": "鳥羽市",
+      "ward": null
+    },
+    "熊野市": {
+      "city": "熊野市",
+      "ward": null
+    },
+    "志摩市": {
+      "city": "志摩市",
+      "ward": null
+    },
+    "大台町": {
+      "city": "大台町",
+      "ward": null
+    },
+    "玉城町": {
+      "city": "玉城町",
+      "ward": null
+    },
+    "度会町": {
+      "city": "度会町",
+      "ward": null
+    },
+    "三重大紀町": {
+      "city": "大紀町",
+      "ward": null
+    },
+    "南伊勢町": {
+      "city": "南伊勢町",
+      "ward": null
+    },
+    "三重紀北町": {
+      "city": "紀北町",
+      "ward": null
+    },
+    "三重御浜町": {
+      "city": "御浜町",
+      "ward": null
+    },
+    "紀宝町": {
+      "city": "紀宝町",
+      "ward": null
+    }
+  },
+  "滋賀県": {
+    "彦根市": {
+      "city": "彦根市",
+      "ward": null
+    },
+    "長浜市": {
+      "city": "長浜市",
+      "ward": null
+    },
+    "高島市": {
+      "city": "高島市",
+      "ward": null
+    },
+    "米原市": {
+      "city": "米原市",
+      "ward": null
+    },
+    "愛荘町": {
+      "city": "愛荘町",
+      "ward": null
+    },
+    "豊郷町": {
+      "city": "豊郷町",
+      "ward": null
+    },
+    "甲良町": {
+      "city": "甲良町",
+      "ward": null
+    },
+    "多賀町": {
+      "city": "多賀町",
+      "ward": null
+    },
+    "大津市": {
+      "city": "大津市",
+      "ward": null
+    },
+    "近江八幡市": {
+      "city": "近江八幡市",
+      "ward": null
+    },
+    "草津市": {
+      "city": "草津市",
+      "ward": null
+    },
+    "守山市": {
+      "city": "守山市",
+      "ward": null
+    },
+    "栗東市": {
+      "city": "栗東市",
+      "ward": null
+    },
+    "甲賀市": {
+      "city": "甲賀市",
+      "ward": null
+    },
+    "野洲市": {
+      "city": "野洲市",
+      "ward": null
+    },
+    "湖南市": {
+      "city": "湖南市",
+      "ward": null
+    },
+    "東近江市": {
+      "city": "東近江市",
+      "ward": null
+    },
+    "滋賀日野町": {
+      "city": "日野町",
+      "ward": null
+    },
+    "竜王町": {
+      "city": "竜王町",
+      "ward": null
+    }
+  },
+  "京都府": {
+    "福知山市": {
+      "city": "福知山市",
+      "ward": null
+    },
+    "舞鶴市": {
+      "city": "舞鶴市",
+      "ward": null
+    },
+    "綾部市": {
+      "city": "綾部市",
+      "ward": null
+    },
+    "宮津市": {
+      "city": "宮津市",
+      "ward": null
+    },
+    "京丹後市": {
+      "city": "京丹後市",
+      "ward": null
+    },
+    "伊根町": {
+      "city": "伊根町",
+      "ward": null
+    },
+    "与謝野町": {
+      "city": "与謝野町",
+      "ward": null
+    },
+    "京都北区": {
+      "city": "京都市",
+      "ward": "北区"
+    },
+    "京都上京区": {
+      "city": "京都市",
+      "ward": "上京区"
+    },
+    "京都左京区": {
+      "city": "京都市",
+      "ward": "左京区"
+    },
+    "京都中京区": {
+      "city": "京都市",
+      "ward": "中京区"
+    },
+    "京都東山区": {
+      "city": "京都市",
+      "ward": "東山区"
+    },
+    "京都下京区": {
+      "city": "京都市",
+      "ward": "下京区"
+    },
+    "京都南区": {
+      "city": "京都市",
+      "ward": "南区"
+    },
+    "京都右京区": {
+      "city": "京都市",
+      "ward": "右京区"
+    },
+    "京都伏見区": {
+      "city": "京都市",
+      "ward": "伏見区"
+    },
+    "京都山科区": {
+      "city": "京都市",
+      "ward": "山科区"
+    },
+    "京都西京区": {
+      "city": "京都市",
+      "ward": "西京区"
+    },
+    "宇治市": {
+      "city": "宇治市",
+      "ward": null
+    },
+    "亀岡市": {
+      "city": "亀岡市",
+      "ward": null
+    },
+    "城陽市": {
+      "city": "城陽市",
+      "ward": null
+    },
+    "向日市": {
+      "city": "向日市",
+      "ward": null
+    },
+    "長岡京市": {
+      "city": "長岡京市",
+      "ward": null
+    },
+    "八幡市": {
+      "city": "八幡市",
+      "ward": null
+    },
+    "京田辺市": {
+      "city": "京田辺市",
+      "ward": null
+    },
+    "南丹市": {
+      "city": "南丹市",
+      "ward": null
+    },
+    "木津川市": {
+      "city": "木津川市",
+      "ward": null
+    },
+    "大山崎町": {
+      "city": "大山崎町",
+      "ward": null
+    },
+    "久御山町": {
+      "city": "久御山町",
+      "ward": null
+    },
+    "井手町": {
+      "city": "井手町",
+      "ward": null
+    },
+    "宇治田原町": {
+      "city": "宇治田原町",
+      "ward": null
+    },
+    "笠置町": {
+      "city": "笠置町",
+      "ward": null
+    },
+    "和束町": {
+      "city": "和束町",
+      "ward": null
+    },
+    "精華町": {
+      "city": "精華町",
+      "ward": null
+    },
+    "南山城村": {
+      "city": "南山城村",
+      "ward": null
+    },
+    "京丹波町": {
+      "city": "京丹波町",
+      "ward": null
+    }
+  },
+  "大阪府": {
+    "大阪都島区": {
+      "city": "大阪市",
+      "ward": "都島区"
+    },
+    "大阪福島区": {
+      "city": "大阪市",
+      "ward": "福島区"
+    },
+    "大阪此花区": {
+      "city": "大阪市",
+      "ward": "此花区"
+    },
+    "大阪西区": {
+      "city": "大阪市",
+      "ward": "西区"
+    },
+    "大阪港区": {
+      "city": "大阪市",
+      "ward": "港区"
+    },
+    "大阪大正区": {
+      "city": "大阪市",
+      "ward": "大正区"
+    },
+    "大阪天王寺区": {
+      "city": "大阪市",
+      "ward": "天王寺区"
+    },
+    "大阪浪速区": {
+      "city": "大阪市",
+      "ward": "浪速区"
+    },
+    "大阪西淀川区": {
+      "city": "大阪市",
+      "ward": "西淀川区"
+    },
+    "大阪東淀川区": {
+      "city": "大阪市",
+      "ward": "東淀川区"
+    },
+    "大阪東成区": {
+      "city": "大阪市",
+      "ward": "東成区"
+    },
+    "大阪生野区": {
+      "city": "大阪市",
+      "ward": "生野区"
+    },
+    "大阪旭区": {
+      "city": "大阪市",
+      "ward": "旭区"
+    },
+    "大阪城東区": {
+      "city": "大阪市",
+      "ward": "城東区"
+    },
+    "大阪阿倍野区": {
+      "city": "大阪市",
+      "ward": "阿倍野区"
+    },
+    "大阪住吉区": {
+      "city": "大阪市",
+      "ward": "住吉区"
+    },
+    "大阪東住吉区": {
+      "city": "大阪市",
+      "ward": "東住吉区"
+    },
+    "大阪西成区": {
+      "city": "大阪市",
+      "ward": "西成区"
+    },
+    "大阪淀川区": {
+      "city": "大阪市",
+      "ward": "淀川区"
+    },
+    "大阪鶴見区": {
+      "city": "大阪市",
+      "ward": "鶴見区"
+    },
+    "大阪住之江区": {
+      "city": "大阪市",
+      "ward": "住之江区"
+    },
+    "大阪平野区": {
+      "city": "大阪市",
+      "ward": "平野区"
+    },
+    "大阪北区": {
+      "city": "大阪市",
+      "ward": "北区"
+    },
+    "大阪中央区": {
+      "city": "大阪市",
+      "ward": "中央区"
+    },
+    "豊中市": {
+      "city": "豊中市",
+      "ward": null
+    },
+    "池田市": {
+      "city": "池田市",
+      "ward": null
+    },
+    "吹田市": {
+      "city": "吹田市",
+      "ward": null
+    },
+    "高槻市": {
+      "city": "高槻市",
+      "ward": null
+    },
+    "守口市": {
+      "city": "守口市",
+      "ward": null
+    },
+    "枚方市": {
+      "city": "枚方市",
+      "ward": null
+    },
+    "茨木市": {
+      "city": "茨木市",
+      "ward": null
+    },
+    "八尾市": {
+      "city": "八尾市",
+      "ward": null
+    },
+    "寝屋川市": {
+      "city": "寝屋川市",
+      "ward": null
+    },
+    "大東市": {
+      "city": "大東市",
+      "ward": null
+    },
+    "箕面市": {
+      "city": "箕面市",
+      "ward": null
+    },
+    "柏原市": {
+      "city": "柏原市",
+      "ward": null
+    },
+    "門真市": {
+      "city": "門真市",
+      "ward": null
+    },
+    "摂津市": {
+      "city": "摂津市",
+      "ward": null
+    },
+    "東大阪市": {
+      "city": "東大阪市",
+      "ward": null
+    },
+    "四條畷市": {
+      "city": "四條畷市",
+      "ward": null
+    },
+    "交野市": {
+      "city": "交野市",
+      "ward": null
+    },
+    "島本町": {
+      "city": "島本町",
+      "ward": null
+    },
+    "豊能町": {
+      "city": "豊能町",
+      "ward": null
+    },
+    "能勢町": {
+      "city": "能勢町",
+      "ward": null
+    },
+    "大阪堺市堺区": {
+      "city": "大阪市",
+      "ward": "堺市堺区"
+    },
+    "大阪堺市中区": {
+      "city": "大阪市",
+      "ward": "堺市中区"
+    },
+    "大阪堺市東区": {
+      "city": "大阪市",
+      "ward": "堺市東区"
+    },
+    "大阪堺市西区": {
+      "city": "大阪市",
+      "ward": "堺市西区"
+    },
+    "大阪堺市南区": {
+      "city": "大阪市",
+      "ward": "堺市南区"
+    },
+    "大阪堺市北区": {
+      "city": "大阪市",
+      "ward": "堺市北区"
+    },
+    "大阪堺市美原区": {
+      "city": "大阪市",
+      "ward": "堺市美原区"
+    },
+    "岸和田市": {
+      "city": "岸和田市",
+      "ward": null
+    },
+    "泉大津市": {
+      "city": "泉大津市",
+      "ward": null
+    },
+    "貝塚市": {
+      "city": "貝塚市",
+      "ward": null
+    },
+    "泉佐野市": {
+      "city": "泉佐野市",
+      "ward": null
+    },
+    "富田林市": {
+      "city": "富田林市",
+      "ward": null
+    },
+    "河内長野市": {
+      "city": "河内長野市",
+      "ward": null
+    },
+    "松原市": {
+      "city": "松原市",
+      "ward": null
+    },
+    "大阪和泉市": {
+      "city": "和泉市",
+      "ward": null
+    },
+    "羽曳野市": {
+      "city": "羽曳野市",
+      "ward": null
+    },
+    "高石市": {
+      "city": "高石市",
+      "ward": null
+    },
+    "藤井寺市": {
+      "city": "藤井寺市",
+      "ward": null
+    },
+    "泉南市": {
+      "city": "泉南市",
+      "ward": null
+    },
+    "大阪狭山市": {
+      "city": "大阪狭山市",
+      "ward": null
+    },
+    "阪南市": {
+      "city": "阪南市",
+      "ward": null
+    },
+    "忠岡町": {
+      "city": "忠岡町",
+      "ward": null
+    },
+    "熊取町": {
+      "city": "熊取町",
+      "ward": null
+    },
+    "田尻町": {
+      "city": "田尻町",
+      "ward": null
+    },
+    "大阪岬町": {
+      "city": "岬町",
+      "ward": null
+    },
+    "大阪太子町": {
+      "city": "太子町",
+      "ward": null
+    },
+    "河南町": {
+      "city": "河南町",
+      "ward": null
+    },
+    "千早赤阪村": {
+      "city": "千早赤阪村",
+      "ward": null
+    }
+  },
+  "兵庫県": {
+    "豊岡市": {
+      "city": "豊岡市",
+      "ward": null
+    },
+    "養父市": {
+      "city": "養父市",
+      "ward": null
+    },
+    "朝来市": {
+      "city": "朝来市",
+      "ward": null
+    },
+    "兵庫香美町": {
+      "city": "香美町",
+      "ward": null
+    },
+    "新温泉町": {
+      "city": "新温泉町",
+      "ward": null
+    },
+    "神戸東灘区": {
+      "city": "神戸東灘区",
+      "ward": null
+    },
+    "神戸灘区": {
+      "city": "神戸灘区",
+      "ward": null
+    },
+    "神戸兵庫区": {
+      "city": "神戸兵庫区",
+      "ward": null
+    },
+    "神戸長田区": {
+      "city": "神戸長田区",
+      "ward": null
+    },
+    "神戸須磨区": {
+      "city": "神戸須磨区",
+      "ward": null
+    },
+    "神戸垂水区": {
+      "city": "神戸垂水区",
+      "ward": null
+    },
+    "神戸北区": {
+      "city": "神戸北区",
+      "ward": null
+    },
+    "神戸中央区": {
+      "city": "神戸中央区",
+      "ward": null
+    },
+    "神戸西区": {
+      "city": "神戸西区",
+      "ward": null
+    },
+    "尼崎市": {
+      "city": "尼崎市",
+      "ward": null
+    },
+    "明石市": {
+      "city": "明石市",
+      "ward": null
+    },
+    "西宮市": {
+      "city": "西宮市",
+      "ward": null
+    },
+    "芦屋市": {
+      "city": "芦屋市",
+      "ward": null
+    },
+    "伊丹市": {
+      "city": "伊丹市",
+      "ward": null
+    },
+    "加古川市": {
+      "city": "加古川市",
+      "ward": null
+    },
+    "西脇市": {
+      "city": "西脇市",
+      "ward": null
+    },
+    "宝塚市": {
+      "city": "宝塚市",
+      "ward": null
+    },
+    "三木市": {
+      "city": "三木市",
+      "ward": null
+    },
+    "高砂市": {
+      "city": "高砂市",
+      "ward": null
+    },
+    "川西市": {
+      "city": "川西市",
+      "ward": null
+    },
+    "小野市": {
+      "city": "小野市",
+      "ward": null
+    },
+    "三田市": {
+      "city": "三田市",
+      "ward": null
+    },
+    "加西市": {
+      "city": "加西市",
+      "ward": null
+    },
+    "丹波篠山市": {
+      "city": "丹波篠山市",
+      "ward": null
+    },
+    "丹波市": {
+      "city": "丹波市",
+      "ward": null
+    },
+    "加東市": {
+      "city": "加東市",
+      "ward": null
+    },
+    "猪名川町": {
+      "city": "猪名川町",
+      "ward": null
+    },
+    "多可町": {
+      "city": "多可町",
+      "ward": null
+    },
+    "兵庫稲美町": {
+      "city": "稲美町",
+      "ward": null
+    },
+    "播磨町": {
+      "city": "播磨町",
+      "ward": null
+    },
+    "姫路市": {
+      "city": "姫路市",
+      "ward": null
+    },
+    "相生市": {
+      "city": "相生市",
+      "ward": null
+    },
+    "赤穂市": {
+      "city": "赤穂市",
+      "ward": null
+    },
+    "宍粟市": {
+      "city": "宍粟市",
+      "ward": null
+    },
+    "たつの市": {
+      "city": "たつの市",
+      "ward": null
+    },
+    "市川町": {
+      "city": "市川町",
+      "ward": null
+    },
+    "福崎町": {
+      "city": "福崎町",
+      "ward": null
+    },
+    "兵庫神河町": {
+      "city": "神河町",
+      "ward": null
+    },
+    "兵庫太子町": {
+      "city": "太子町",
+      "ward": null
+    },
+    "上郡町": {
+      "city": "上郡町",
+      "ward": null
+    },
+    "佐用町": {
+      "city": "佐用町",
+      "ward": null
+    },
+    "洲本市": {
+      "city": "洲本市",
+      "ward": null
+    },
+    "南あわじ市": {
+      "city": "南あわじ市",
+      "ward": null
+    },
+    "淡路市": {
+      "city": "淡路市",
+      "ward": null
+    }
+  },
+  "奈良県": {
+    "奈良市": {
+      "city": "奈良市",
+      "ward": null
+    },
+    "大和高田市": {
+      "city": "大和高田市",
+      "ward": null
+    },
+    "大和郡山市": {
+      "city": "大和郡山市",
+      "ward": null
+    },
+    "天理市": {
+      "city": "天理市",
+      "ward": null
+    },
+    "橿原市": {
+      "city": "橿原市",
+      "ward": null
+    },
+    "桜井市": {
+      "city": "桜井市",
+      "ward": null
+    },
+    "五條市": {
+      "city": "五條市",
+      "ward": null
+    },
+    "御所市": {
+      "city": "御所市",
+      "ward": null
+    },
+    "生駒市": {
+      "city": "生駒市",
+      "ward": null
+    },
+    "香芝市": {
+      "city": "香芝市",
+      "ward": null
+    },
+    "葛城市": {
+      "city": "葛城市",
+      "ward": null
+    },
+    "宇陀市": {
+      "city": "宇陀市",
+      "ward": null
+    },
+    "山添村": {
+      "city": "山添村",
+      "ward": null
+    },
+    "平群町": {
+      "city": "平群町",
+      "ward": null
+    },
+    "三郷町": {
+      "city": "三郷町",
+      "ward": null
+    },
+    "斑鳩町": {
+      "city": "斑鳩町",
+      "ward": null
+    },
+    "安堵町": {
+      "city": "安堵町",
+      "ward": null
+    },
+    "奈良川西町": {
+      "city": "川西町",
+      "ward": null
+    },
+    "三宅町": {
+      "city": "三宅町",
+      "ward": null
+    },
+    "田原本町": {
+      "city": "田原本町",
+      "ward": null
+    },
+    "曽爾村": {
+      "city": "曽爾村",
+      "ward": null
+    },
+    "御杖村": {
+      "city": "御杖村",
+      "ward": null
+    },
+    "高取町": {
+      "city": "高取町",
+      "ward": null
+    },
+    "明日香村": {
+      "city": "明日香村",
+      "ward": null
+    },
+    "上牧町": {
+      "city": "上牧町",
+      "ward": null
+    },
+    "王寺町": {
+      "city": "王寺町",
+      "ward": null
+    },
+    "広陵町": {
+      "city": "広陵町",
+      "ward": null
+    },
+    "河合町": {
+      "city": "河合町",
+      "ward": null
+    },
+    "吉野町": {
+      "city": "吉野町",
+      "ward": null
+    },
+    "大淀町": {
+      "city": "大淀町",
+      "ward": null
+    },
+    "下市町": {
+      "city": "下市町",
+      "ward": null
+    },
+    "黒滝村": {
+      "city": "黒滝村",
+      "ward": null
+    },
+    "天川村": {
+      "city": "天川村",
+      "ward": null
+    },
+    "野迫川村": {
+      "city": "野迫川村",
+      "ward": null
+    },
+    "十津川村": {
+      "city": "十津川村",
+      "ward": null
+    },
+    "下北山村": {
+      "city": "下北山村",
+      "ward": null
+    },
+    "上北山村": {
+      "city": "上北山村",
+      "ward": null
+    },
+    "奈良川上村": {
+      "city": "川上村",
+      "ward": null
+    },
+    "東吉野村": {
+      "city": "東吉野村",
+      "ward": null
+    }
+  },
+  "和歌山県": {
+    "和歌山市": {
+      "city": "和歌山市",
+      "ward": null
+    },
+    "海南市": {
+      "city": "海南市",
+      "ward": null
+    },
+    "橋本市": {
+      "city": "橋本市",
+      "ward": null
+    },
+    "有田市": {
+      "city": "有田市",
+      "ward": null
+    },
+    "御坊市": {
+      "city": "御坊市",
+      "ward": null
+    },
+    "紀の川市": {
+      "city": "紀の川市",
+      "ward": null
+    },
+    "岩出市": {
+      "city": "岩出市",
+      "ward": null
+    },
+    "紀美野町": {
+      "city": "紀美野町",
+      "ward": null
+    },
+    "かつらぎ町": {
+      "city": "かつらぎ町",
+      "ward": null
+    },
+    "九度山町": {
+      "city": "九度山町",
+      "ward": null
+    },
+    "高野町": {
+      "city": "高野町",
+      "ward": null
+    },
+    "湯浅町": {
+      "city": "湯浅町",
+      "ward": null
+    },
+    "和歌山広川町": {
+      "city": "広川町",
+      "ward": null
+    },
+    "有田川町": {
+      "city": "有田川町",
+      "ward": null
+    },
+    "和歌山美浜町": {
+      "city": "美浜町",
+      "ward": null
+    },
+    "和歌山日高町": {
+      "city": "日高町",
+      "ward": null
+    },
+    "由良町": {
+      "city": "由良町",
+      "ward": null
+    },
+    "和歌山印南町": {
+      "city": "印南町",
+      "ward": null
+    },
+    "みなべ町": {
+      "city": "みなべ町",
+      "ward": null
+    },
+    "日高川町": {
+      "city": "日高川町",
+      "ward": null
+    },
+    "田辺市": {
+      "city": "田辺市",
+      "ward": null
+    },
+    "新宮市": {
+      "city": "新宮市",
+      "ward": null
+    },
+    "白浜町": {
+      "city": "白浜町",
+      "ward": null
+    },
+    "上富田町": {
+      "city": "上富田町",
+      "ward": null
+    },
+    "すさみ町": {
+      "city": "すさみ町",
+      "ward": null
+    },
+    "那智勝浦町": {
+      "city": "那智勝浦町",
+      "ward": null
+    },
+    "太地町": {
+      "city": "太地町",
+      "ward": null
+    },
+    "古座川町": {
+      "city": "古座川町",
+      "ward": null
+    },
+    "北山村": {
+      "city": "北山村",
+      "ward": null
+    },
+    "串本町": {
+      "city": "串本町",
+      "ward": null
+    }
+  },
+  "鳥取県": {
+    "鳥取市": {
+      "city": "鳥取市",
+      "ward": null
+    },
+    "岩美町": {
+      "city": "岩美町",
+      "ward": null
+    },
+    "鳥取若桜町": {
+      "city": "若桜町",
+      "ward": null
+    },
+    "智頭町": {
+      "city": "智頭町",
+      "ward": null
+    },
+    "八頭町": {
+      "city": "八頭町",
+      "ward": null
+    },
+    "倉吉市": {
+      "city": "倉吉市",
+      "ward": null
+    },
+    "三朝町": {
+      "city": "三朝町",
+      "ward": null
+    },
+    "湯梨浜町": {
+      "city": "湯梨浜町",
+      "ward": null
+    },
+    "琴浦町": {
+      "city": "琴浦町",
+      "ward": null
+    },
+    "北栄町": {
+      "city": "北栄町",
+      "ward": null
+    },
+    "米子市": {
+      "city": "米子市",
+      "ward": null
+    },
+    "境港市": {
+      "city": "境港市",
+      "ward": null
+    },
+    "日吉津村": {
+      "city": "日吉津村",
+      "ward": null
+    },
+    "大山町": {
+      "city": "大山町",
+      "ward": null
+    },
+    "鳥取南部町": {
+      "city": "南部町",
+      "ward": null
+    },
+    "伯耆町": {
+      "city": "伯耆町",
+      "ward": null
+    },
+    "日南町": {
+      "city": "日南町",
+      "ward": null
+    },
+    "鳥取日野町": {
+      "city": "日野町",
+      "ward": null
+    },
+    "江府町": {
+      "city": "江府町",
+      "ward": null
+    }
+  },
+  "島根県": {
+    "松江市": {
+      "city": "松江市",
+      "ward": null
+    },
+    "出雲市": {
+      "city": "出雲市",
+      "ward": null
+    },
+    "安来市": {
+      "city": "安来市",
+      "ward": null
+    },
+    "雲南市": {
+      "city": "雲南市",
+      "ward": null
+    },
+    "奥出雲町": {
+      "city": "奥出雲町",
+      "ward": null
+    },
+    "飯南町": {
+      "city": "飯南町",
+      "ward": null
+    },
+    "浜田市": {
+      "city": "浜田市",
+      "ward": null
+    },
+    "益田市": {
+      "city": "益田市",
+      "ward": null
+    },
+    "大田市": {
+      "city": "大田市",
+      "ward": null
+    },
+    "江津市": {
+      "city": "江津市",
+      "ward": null
+    },
+    "川本町": {
+      "city": "川本町",
+      "ward": null
+    },
+    "島根美郷町": {
+      "city": "美郷町",
+      "ward": null
+    },
+    "邑南町": {
+      "city": "邑南町",
+      "ward": null
+    },
+    "津和野町": {
+      "city": "津和野町",
+      "ward": null
+    },
+    "吉賀町": {
+      "city": "吉賀町",
+      "ward": null
+    },
+    "海士町": {
+      "city": "海士町",
+      "ward": null
+    },
+    "西ノ島町": {
+      "city": "西ノ島町",
+      "ward": null
+    },
+    "知夫村": {
+      "city": "知夫村",
+      "ward": null
+    },
+    "隠岐の島町": {
+      "city": "隠岐の島町",
+      "ward": null
+    }
+  },
+  "岡山県": {
+    "津山市": {
+      "city": "津山市",
+      "ward": null
+    },
+    "新見市": {
+      "city": "新見市",
+      "ward": null
+    },
+    "真庭市": {
+      "city": "真庭市",
+      "ward": null
+    },
+    "美作市": {
+      "city": "美作市",
+      "ward": null
+    },
+    "新庄村": {
+      "city": "新庄村",
+      "ward": null
+    },
+    "鏡野町": {
+      "city": "鏡野町",
+      "ward": null
+    },
+    "勝央町": {
+      "city": "勝央町",
+      "ward": null
+    },
+    "奈義町": {
+      "city": "奈義町",
+      "ward": null
+    },
+    "西粟倉村": {
+      "city": "西粟倉村",
+      "ward": null
+    },
+    "久米南町": {
+      "city": "久米南町",
+      "ward": null
+    },
+    "岡山美咲町": {
+      "city": "美咲町",
+      "ward": null
+    },
+    "岡山北区": {
+      "city": "岡山市",
+      "ward": "北区"
+    },
+    "岡山中区": {
+      "city": "岡山市",
+      "ward": "中区"
+    },
+    "岡山東区": {
+      "city": "岡山市",
+      "ward": "東区"
+    },
+    "岡山南区": {
+      "city": "岡山市",
+      "ward": "南区"
+    },
+    "倉敷市": {
+      "city": "倉敷市",
+      "ward": null
+    },
+    "玉野市": {
+      "city": "玉野市",
+      "ward": null
+    },
+    "笠岡市": {
+      "city": "笠岡市",
+      "ward": null
+    },
+    "井原市": {
+      "city": "井原市",
+      "ward": null
+    },
+    "総社市": {
+      "city": "総社市",
+      "ward": null
+    },
+    "高梁市": {
+      "city": "高梁市",
+      "ward": null
+    },
+    "備前市": {
+      "city": "備前市",
+      "ward": null
+    },
+    "瀬戸内市": {
+      "city": "瀬戸内市",
+      "ward": null
+    },
+    "赤磐市": {
+      "city": "赤磐市",
+      "ward": null
+    },
+    "浅口市": {
+      "city": "浅口市",
+      "ward": null
+    },
+    "和気町": {
+      "city": "和気町",
+      "ward": null
+    },
+    "早島町": {
+      "city": "早島町",
+      "ward": null
+    },
+    "里庄町": {
+      "city": "里庄町",
+      "ward": null
+    },
+    "矢掛町": {
+      "city": "矢掛町",
+      "ward": null
+    },
+    "吉備中央町": {
+      "city": "吉備中央町",
+      "ward": null
+    }
+  },
+  "広島県": {
+    "広島三次市": {
+      "city": "三次市",
+      "ward": null
+    },
+    "庄原市": {
+      "city": "庄原市",
+      "ward": null
+    },
+    "安芸高田市": {
+      "city": "安芸高田市",
+      "ward": null
+    },
+    "安芸太田町": {
+      "city": "安芸太田町",
+      "ward": null
+    },
+    "北広島町": {
+      "city": "北広島町",
+      "ward": null
+    },
+    "三原市": {
+      "city": "三原市",
+      "ward": null
+    },
+    "尾道市": {
+      "city": "尾道市",
+      "ward": null
+    },
+    "福山市": {
+      "city": "福山市",
+      "ward": null
+    },
+    "広島府中市": {
+      "city": "府中市",
+      "ward": null
+    },
+    "世羅町": {
+      "city": "世羅町",
+      "ward": null
+    },
+    "神石高原町": {
+      "city": "神石高原町",
+      "ward": null
+    },
+    "広島中区": {
+      "city": "広島中区",
+      "ward": null
+    },
+    "広島東区": {
+      "city": "広島東区",
+      "ward": null
+    },
+    "広島南区": {
+      "city": "広島南区",
+      "ward": null
+    },
+    "広島西区": {
+      "city": "広島西区",
+      "ward": null
+    },
+    "広島安佐南区": {
+      "city": "広島安佐南区",
+      "ward": null
+    },
+    "広島安佐北区": {
+      "city": "広島安佐北区",
+      "ward": null
+    },
+    "広島安芸区": {
+      "city": "広島安芸区",
+      "ward": null
+    },
+    "広島佐伯区": {
+      "city": "広島佐伯区",
+      "ward": null
+    },
+    "呉市": {
+      "city": "呉市",
+      "ward": null
+    },
+    "竹原市": {
+      "city": "竹原市",
+      "ward": null
+    },
+    "大竹市": {
+      "city": "大竹市",
+      "ward": null
+    },
+    "東広島市": {
+      "city": "東広島市",
+      "ward": null
+    },
+    "廿日市市": {
+      "city": "廿日市市",
+      "ward": null
+    },
+    "江田島市": {
+      "city": "江田島市",
+      "ward": null
+    },
+    "府中町": {
+      "city": "府中町",
+      "ward": null
+    },
+    "海田町": {
+      "city": "海田町",
+      "ward": null
+    },
+    "熊野町": {
+      "city": "熊野町",
+      "ward": null
+    },
+    "坂町": {
+      "city": "坂町",
+      "ward": null
+    },
+    "大崎上島町": {
+      "city": "大崎上島町",
+      "ward": null
+    }
+  },
+  "山口県": {
+    "萩市": {
+      "city": "萩市",
+      "ward": null
+    },
+    "長門市": {
+      "city": "長門市",
+      "ward": null
+    },
+    "美祢市": {
+      "city": "美祢市",
+      "ward": null
+    },
+    "阿武町": {
+      "city": "阿武町",
+      "ward": null
+    },
+    "岩国市": {
+      "city": "岩国市",
+      "ward": null
+    },
+    "光市": {
+      "city": "光市",
+      "ward": null
+    },
+    "柳井市": {
+      "city": "柳井市",
+      "ward": null
+    },
+    "周防大島町": {
+      "city": "周防大島町",
+      "ward": null
+    },
+    "和木町": {
+      "city": "和木町",
+      "ward": null
+    },
+    "上関町": {
+      "city": "上関町",
+      "ward": null
+    },
+    "田布施町": {
+      "city": "田布施町",
+      "ward": null
+    },
+    "平生町": {
+      "city": "平生町",
+      "ward": null
+    },
+    "山口市": {
+      "city": "山口市",
+      "ward": null
+    },
+    "防府市": {
+      "city": "防府市",
+      "ward": null
+    },
+    "下松市": {
+      "city": "下松市",
+      "ward": null
+    },
+    "周南市": {
+      "city": "周南市",
+      "ward": null
+    },
+    "下関市": {
+      "city": "下関市",
+      "ward": null
+    },
+    "宇部市": {
+      "city": "宇部市",
+      "ward": null
+    },
+    "山陽小野田市": {
+      "city": "山陽小野田市",
+      "ward": null
+    }
+  },
+  "徳島県": {
+    "徳島市": {
+      "city": "徳島市",
+      "ward": null
+    },
+    "鳴門市": {
+      "city": "鳴門市",
+      "ward": null
+    },
+    "小松島市": {
+      "city": "小松島市",
+      "ward": null
+    },
+    "吉野川市": {
+      "city": "吉野川市",
+      "ward": null
+    },
+    "阿波市": {
+      "city": "阿波市",
+      "ward": null
+    },
+    "美馬市": {
+      "city": "美馬市",
+      "ward": null
+    },
+    "徳島三好市": {
+      "city": "三好市",
+      "ward": null
+    },
+    "佐那河内村": {
+      "city": "佐那河内村",
+      "ward": null
+    },
+    "石井町": {
+      "city": "石井町",
+      "ward": null
+    },
+    "神山町": {
+      "city": "神山町",
+      "ward": null
+    },
+    "松茂町": {
+      "city": "松茂町",
+      "ward": null
+    },
+    "北島町": {
+      "city": "北島町",
+      "ward": null
+    },
+    "藍住町": {
+      "city": "藍住町",
+      "ward": null
+    },
+    "板野町": {
+      "city": "板野町",
+      "ward": null
+    },
+    "上板町": {
+      "city": "上板町",
+      "ward": null
+    },
+    "つるぎ町": {
+      "city": "つるぎ町",
+      "ward": null
+    },
+    "東みよし町": {
+      "city": "東みよし町",
+      "ward": null
+    },
+    "阿南市": {
+      "city": "阿南市",
+      "ward": null
+    },
+    "勝浦町": {
+      "city": "勝浦町",
+      "ward": null
+    },
+    "上勝町": {
+      "city": "上勝町",
+      "ward": null
+    },
+    "那賀町": {
+      "city": "那賀町",
+      "ward": null
+    },
+    "牟岐町": {
+      "city": "牟岐町",
+      "ward": null
+    },
+    "美波町": {
+      "city": "美波町",
+      "ward": null
+    },
+    "海陽町": {
+      "city": "海陽町",
+      "ward": null
+    }
+  },
+  "香川県": {
+    "高松市": {
+      "city": "高松市",
+      "ward": null
+    },
+    "さぬき市": {
+      "city": "さぬき市",
+      "ward": null
+    },
+    "東かがわ市": {
+      "city": "東かがわ市",
+      "ward": null
+    },
+    "土庄町": {
+      "city": "土庄町",
+      "ward": null
+    },
+    "小豆島町": {
+      "city": "小豆島町",
+      "ward": null
+    },
+    "三木町": {
+      "city": "三木町",
+      "ward": null
+    },
+    "直島町": {
+      "city": "直島町",
+      "ward": null
+    },
+    "丸亀市": {
+      "city": "丸亀市",
+      "ward": null
+    },
+    "坂出市": {
+      "city": "坂出市",
+      "ward": null
+    },
+    "善通寺市": {
+      "city": "善通寺市",
+      "ward": null
+    },
+    "観音寺市": {
+      "city": "観音寺市",
+      "ward": null
+    },
+    "三豊市": {
+      "city": "三豊市",
+      "ward": null
+    },
+    "宇多津町": {
+      "city": "宇多津町",
+      "ward": null
+    },
+    "綾川町": {
+      "city": "綾川町",
+      "ward": null
+    },
+    "琴平町": {
+      "city": "琴平町",
+      "ward": null
+    },
+    "多度津町": {
+      "city": "多度津町",
+      "ward": null
+    },
+    "まんのう町": {
+      "city": "まんのう町",
+      "ward": null
+    }
+  },
+  "愛媛県": {
+    "今治市": {
+      "city": "今治市",
+      "ward": null
+    },
+    "新居浜市": {
+      "city": "新居浜市",
+      "ward": null
+    },
+    "西条市": {
+      "city": "西条市",
+      "ward": null
+    },
+    "四国中央市": {
+      "city": "四国中央市",
+      "ward": null
+    },
+    "上島町": {
+      "city": "上島町",
+      "ward": null
+    },
+    "松山市": {
+      "city": "松山市",
+      "ward": null
+    },
+    "伊予市": {
+      "city": "伊予市",
+      "ward": null
+    },
+    "東温市": {
+      "city": "東温市",
+      "ward": null
+    },
+    "久万高原町": {
+      "city": "久万高原町",
+      "ward": null
+    },
+    "愛媛松前町": {
+      "city": "松前町",
+      "ward": null
+    },
+    "砥部町": {
+      "city": "砥部町",
+      "ward": null
+    },
+    "宇和島市": {
+      "city": "宇和島市",
+      "ward": null
+    },
+    "八幡浜市": {
+      "city": "八幡浜市",
+      "ward": null
+    },
+    "大洲市": {
+      "city": "大洲市",
+      "ward": null
+    },
+    "西予市": {
+      "city": "西予市",
+      "ward": null
+    },
+    "内子町": {
+      "city": "内子町",
+      "ward": null
+    },
+    "伊方町": {
+      "city": "伊方町",
+      "ward": null
+    },
+    "松野町": {
+      "city": "松野町",
+      "ward": null
+    },
+    "愛媛鬼北町": {
+      "city": "鬼北町",
+      "ward": null
+    },
+    "愛南町": {
+      "city": "愛南町",
+      "ward": null
+    }
+  },
+  "高知県": {
+    "室戸市": {
+      "city": "室戸市",
+      "ward": null
+    },
+    "安芸市": {
+      "city": "安芸市",
+      "ward": null
+    },
+    "東洋町": {
+      "city": "東洋町",
+      "ward": null
+    },
+    "奈半利町": {
+      "city": "奈半利町",
+      "ward": null
+    },
+    "田野町": {
+      "city": "田野町",
+      "ward": null
+    },
+    "安田町": {
+      "city": "安田町",
+      "ward": null
+    },
+    "北川村": {
+      "city": "北川村",
+      "ward": null
+    },
+    "馬路村": {
+      "city": "馬路村",
+      "ward": null
+    },
+    "芸西村": {
+      "city": "芸西村",
+      "ward": null
+    },
+    "高知市": {
+      "city": "高知市",
+      "ward": null
+    },
+    "南国市": {
+      "city": "南国市",
+      "ward": null
+    },
+    "土佐市": {
+      "city": "土佐市",
+      "ward": null
+    },
+    "須崎市": {
+      "city": "須崎市",
+      "ward": null
+    },
+    "高知香南市": {
+      "city": "香南市",
+      "ward": null
+    },
+    "香美市": {
+      "city": "香美市",
+      "ward": null
+    },
+    "本山町": {
+      "city": "本山町",
+      "ward": null
+    },
+    "大豊町": {
+      "city": "大豊町",
+      "ward": null
+    },
+    "土佐町": {
+      "city": "土佐町",
+      "ward": null
+    },
+    "大川村": {
+      "city": "大川村",
+      "ward": null
+    },
+    "いの町": {
+      "city": "いの町",
+      "ward": null
+    },
+    "仁淀川町": {
+      "city": "仁淀川町",
+      "ward": null
+    },
+    "佐川町": {
+      "city": "佐川町",
+      "ward": null
+    },
+    "越知町": {
+      "city": "越知町",
+      "ward": null
+    },
+    "日高村": {
+      "city": "日高村",
+      "ward": null
+    },
+    "宿毛市": {
+      "city": "宿毛市",
+      "ward": null
+    },
+    "土佐清水市": {
+      "city": "土佐清水市",
+      "ward": null
+    },
+    "四万十市": {
+      "city": "四万十市",
+      "ward": null
+    },
+    "中土佐町": {
+      "city": "中土佐町",
+      "ward": null
+    },
+    "梼原町": {
+      "city": "梼原町",
+      "ward": null
+    },
+    "高知津野町": {
+      "city": "津野町",
+      "ward": null
+    },
+    "四万十町": {
+      "city": "四万十町",
+      "ward": null
+    },
+    "大月町": {
+      "city": "大月町",
+      "ward": null
+    },
+    "三原村": {
+      "city": "三原村",
+      "ward": null
+    },
+    "黒潮町": {
+      "city": "黒潮町",
+      "ward": null
+    }
+  },
+  "福岡県": {
+    "福岡東区": {
+      "city": "福岡市",
+      "ward": "東区"
+    },
+    "福岡博多区": {
+      "city": "福岡市",
+      "ward": "博多区"
+    },
+    "福岡中央区": {
+      "city": "福岡市",
+      "ward": "中央区"
+    },
+    "福岡南区": {
+      "city": "福岡市",
+      "ward": "南区"
+    },
+    "福岡西区": {
+      "city": "福岡市",
+      "ward": "西区"
+    },
+    "福岡城南区": {
+      "city": "福岡市",
+      "ward": "城南区"
+    },
+    "福岡早良区": {
+      "city": "福岡市",
+      "ward": "早良区"
+    },
+    "筑紫野市": {
+      "city": "筑紫野市",
+      "ward": null
+    },
+    "春日市": {
+      "city": "春日市",
+      "ward": null
+    },
+    "大野城市": {
+      "city": "大野城市",
+      "ward": null
+    },
+    "宗像市": {
+      "city": "宗像市",
+      "ward": null
+    },
+    "太宰府市": {
+      "city": "太宰府市",
+      "ward": null
+    },
+    "福岡古賀市": {
+      "city": "古賀市",
+      "ward": null
+    },
+    "福津市": {
+      "city": "福津市",
+      "ward": null
+    },
+    "糸島市": {
+      "city": "糸島市",
+      "ward": null
+    },
+    "那珂川市": {
+      "city": "那珂川市",
+      "ward": null
+    },
+    "宇美町": {
+      "city": "宇美町",
+      "ward": null
+    },
+    "篠栗町": {
+      "city": "篠栗町",
+      "ward": null
+    },
+    "志免町": {
+      "city": "志免町",
+      "ward": null
+    },
+    "須恵町": {
+      "city": "須恵町",
+      "ward": null
+    },
+    "新宮町": {
+      "city": "新宮町",
+      "ward": null
+    },
+    "久山町": {
+      "city": "久山町",
+      "ward": null
+    },
+    "粕屋町": {
+      "city": "粕屋町",
+      "ward": null
+    },
+    "北九州門司区": {
+      "city": "北九州市",
+      "ward": "門司区"
+    },
+    "北九州若松区": {
+      "city": "北九州市",
+      "ward": "若松区"
+    },
+    "北九州戸畑区": {
+      "city": "北九州市",
+      "ward": "戸畑区"
+    },
+    "北九州小倉北区": {
+      "city": "北九州市",
+      "ward": "小倉北区"
+    },
+    "北九州小倉南区": {
+      "city": "北九州市",
+      "ward": "小倉南区"
+    },
+    "北九州八幡東区": {
+      "city": "北九州市",
+      "ward": "八幡東区"
+    },
+    "北九州八幡西区": {
+      "city": "北九州市",
+      "ward": "八幡西区"
+    },
+    "行橋市": {
+      "city": "行橋市",
+      "ward": null
+    },
+    "豊前市": {
+      "city": "豊前市",
+      "ward": null
+    },
+    "中間市": {
+      "city": "中間市",
+      "ward": null
+    },
+    "芦屋町": {
+      "city": "芦屋町",
+      "ward": null
+    },
+    "水巻町": {
+      "city": "水巻町",
+      "ward": null
+    },
+    "岡垣町": {
+      "city": "岡垣町",
+      "ward": null
+    },
+    "遠賀町": {
+      "city": "遠賀町",
+      "ward": null
+    },
+    "苅田町": {
+      "city": "苅田町",
+      "ward": null
+    },
+    "みやこ町": {
+      "city": "みやこ町",
+      "ward": null
+    },
+    "吉富町": {
+      "city": "吉富町",
+      "ward": null
+    },
+    "上毛町": {
+      "city": "上毛町",
+      "ward": null
+    },
+    "築上町": {
+      "city": "築上町",
+      "ward": null
+    },
+    "直方市": {
+      "city": "直方市",
+      "ward": null
+    },
+    "飯塚市": {
+      "city": "飯塚市",
+      "ward": null
+    },
+    "田川市": {
+      "city": "田川市",
+      "ward": null
+    },
+    "宮若市": {
+      "city": "宮若市",
+      "ward": null
+    },
+    "嘉麻市": {
+      "city": "嘉麻市",
+      "ward": null
+    },
+    "小竹町": {
+      "city": "小竹町",
+      "ward": null
+    },
+    "鞍手町": {
+      "city": "鞍手町",
+      "ward": null
+    },
+    "桂川町": {
+      "city": "桂川町",
+      "ward": null
+    },
+    "香春町": {
+      "city": "香春町",
+      "ward": null
+    },
+    "添田町": {
+      "city": "添田町",
+      "ward": null
+    },
+    "糸田町": {
+      "city": "糸田町",
+      "ward": null
+    },
+    "福岡川崎町": {
+      "city": "川崎町",
+      "ward": null
+    },
+    "大任町": {
+      "city": "大任町",
+      "ward": null
+    },
+    "赤村": {
+      "city": "赤村",
+      "ward": null
+    },
+    "福智町": {
+      "city": "福智町",
+      "ward": null
+    },
+    "大牟田市": {
+      "city": "大牟田市",
+      "ward": null
+    },
+    "久留米市": {
+      "city": "久留米市",
+      "ward": null
+    },
+    "柳川市": {
+      "city": "柳川市",
+      "ward": null
+    },
+    "八女市": {
+      "city": "八女市",
+      "ward": null
+    },
+    "筑後市": {
+      "city": "筑後市",
+      "ward": null
+    },
+    "大川市": {
+      "city": "大川市",
+      "ward": null
+    },
+    "小郡市": {
+      "city": "小郡市",
+      "ward": null
+    },
+    "うきは市": {
+      "city": "うきは市",
+      "ward": null
+    },
+    "朝倉市": {
+      "city": "朝倉市",
+      "ward": null
+    },
+    "みやま市": {
+      "city": "みやま市",
+      "ward": null
+    },
+    "筑前町": {
+      "city": "筑前町",
+      "ward": null
+    },
+    "東峰村": {
+      "city": "東峰村",
+      "ward": null
+    },
+    "大刀洗町": {
+      "city": "大刀洗町",
+      "ward": null
+    },
+    "大木町": {
+      "city": "大木町",
+      "ward": null
+    },
+    "福岡広川町": {
+      "city": "広川町",
+      "ward": null
+    }
+  },
+  "佐賀県": {
+    "唐津市": {
+      "city": "唐津市",
+      "ward": null
+    },
+    "伊万里市": {
+      "city": "伊万里市",
+      "ward": null
+    },
+    "玄海町": {
+      "city": "玄海町",
+      "ward": null
+    },
+    "有田町": {
+      "city": "有田町",
+      "ward": null
+    },
+    "佐賀市": {
+      "city": "佐賀市",
+      "ward": null
+    },
+    "鳥栖市": {
+      "city": "鳥栖市",
+      "ward": null
+    },
+    "多久市": {
+      "city": "多久市",
+      "ward": null
+    },
+    "武雄市": {
+      "city": "武雄市",
+      "ward": null
+    },
+    "佐賀鹿島市": {
+      "city": "鹿島市",
+      "ward": null
+    },
+    "小城市": {
+      "city": "小城市",
+      "ward": null
+    },
+    "嬉野市": {
+      "city": "嬉野市",
+      "ward": null
+    },
+    "神埼市": {
+      "city": "神埼市",
+      "ward": null
+    },
+    "吉野ヶ里町": {
+      "city": "吉野ヶ里町",
+      "ward": null
+    },
+    "基山町": {
+      "city": "基山町",
+      "ward": null
+    },
+    "上峰町": {
+      "city": "上峰町",
+      "ward": null
+    },
+    "みやき町": {
+      "city": "みやき町",
+      "ward": null
+    },
+    "大町町": {
+      "city": "大町町",
+      "ward": null
+    },
+    "江北町": {
+      "city": "江北町",
+      "ward": null
+    },
+    "白石町": {
+      "city": "白石町",
+      "ward": null
+    },
+    "太良町": {
+      "city": "太良町",
+      "ward": null
+    }
+  },
+  "長崎県": {
+    "佐世保市": {
+      "city": "佐世保市",
+      "ward": null
+    },
+    "平戸市": {
+      "city": "平戸市",
+      "ward": null
+    },
+    "松浦市": {
+      "city": "松浦市",
+      "ward": null
+    },
+    "東彼杵町": {
+      "city": "東彼杵町",
+      "ward": null
+    },
+    "川棚町": {
+      "city": "川棚町",
+      "ward": null
+    },
+    "波佐見町": {
+      "city": "波佐見町",
+      "ward": null
+    },
+    "佐々町": {
+      "city": "佐々町",
+      "ward": null
+    },
+    "長崎市": {
+      "city": "長崎市",
+      "ward": null
+    },
+    "諫早市": {
+      "city": "諫早市",
+      "ward": null
+    },
+    "大村市": {
+      "city": "大村市",
+      "ward": null
+    },
+    "西海市": {
+      "city": "西海市",
+      "ward": null
+    },
+    "長与町": {
+      "city": "長与町",
+      "ward": null
+    },
+    "時津町": {
+      "city": "時津町",
+      "ward": null
+    },
+    "島原市": {
+      "city": "島原市",
+      "ward": null
+    },
+    "雲仙市": {
+      "city": "雲仙市",
+      "ward": null
+    },
+    "南島原市": {
+      "city": "南島原市",
+      "ward": null
+    },
+    "長崎対馬市": {
+      "city": "対馬市",
+      "ward": null
+    },
+    "壱岐市": {
+      "city": "壱岐市",
+      "ward": null
+    },
+    "五島市": {
+      "city": "五島市",
+      "ward": null
+    },
+    "小値賀町": {
+      "city": "小値賀町",
+      "ward": null
+    },
+    "新上五島町": {
+      "city": "新上五島町",
+      "ward": null
+    }
+  },
+  "熊本県": {
+    "阿蘇市": {
+      "city": "阿蘇市",
+      "ward": null
+    },
+    "南小国町": {
+      "city": "南小国町",
+      "ward": null
+    },
+    "熊本小国町": {
+      "city": "小国町",
+      "ward": null
+    },
+    "産山村": {
+      "city": "産山村",
+      "ward": null
+    },
+    "熊本高森町": {
+      "city": "高森町",
+      "ward": null
+    },
+    "南阿蘇村": {
+      "city": "南阿蘇村",
+      "ward": null
+    },
+    "熊本中央区": {
+      "city": "熊本市",
+      "ward": "中央区"
+    },
+    "熊本東区": {
+      "city": "熊本市",
+      "ward": "東区"
+    },
+    "熊本西区": {
+      "city": "熊本市",
+      "ward": "西区"
+    },
+    "熊本南区": {
+      "city": "熊本市",
+      "ward": "南区"
+    },
+    "熊本北区": {
+      "city": "熊本市",
+      "ward": "北区"
+    },
+    "八代市": {
+      "city": "八代市",
+      "ward": null
+    },
+    "荒尾市": {
+      "city": "荒尾市",
+      "ward": null
+    },
+    "玉名市": {
+      "city": "玉名市",
+      "ward": null
+    },
+    "山鹿市": {
+      "city": "山鹿市",
+      "ward": null
+    },
+    "菊池市": {
+      "city": "菊池市",
+      "ward": null
+    },
+    "宇土市": {
+      "city": "宇土市",
+      "ward": null
+    },
+    "宇城市": {
+      "city": "宇城市",
+      "ward": null
+    },
+    "合志市": {
+      "city": "合志市",
+      "ward": null
+    },
+    "熊本美里町": {
+      "city": "美里町",
+      "ward": null
+    },
+    "玉東町": {
+      "city": "玉東町",
+      "ward": null
+    },
+    "南関町": {
+      "city": "南関町",
+      "ward": null
+    },
+    "長洲町": {
+      "city": "長洲町",
+      "ward": null
+    },
+    "和水町": {
+      "city": "和水町",
+      "ward": null
+    },
+    "大津町": {
+      "city": "大津町",
+      "ward": null
+    },
+    "菊陽町": {
+      "city": "菊陽町",
+      "ward": null
+    },
+    "西原村": {
+      "city": "西原村",
+      "ward": null
+    },
+    "御船町": {
+      "city": "御船町",
+      "ward": null
+    },
+    "嘉島町": {
+      "city": "嘉島町",
+      "ward": null
+    },
+    "益城町": {
+      "city": "益城町",
+      "ward": null
+    },
+    "甲佐町": {
+      "city": "甲佐町",
+      "ward": null
+    },
+    "山都町": {
+      "city": "山都町",
+      "ward": null
+    },
+    "氷川町": {
+      "city": "氷川町",
+      "ward": null
+    },
+    "人吉市": {
+      "city": "人吉市",
+      "ward": null
+    },
+    "錦町": {
+      "city": "錦町",
+      "ward": null
+    },
+    "多良木町": {
+      "city": "多良木町",
+      "ward": null
+    },
+    "湯前町": {
+      "city": "湯前町",
+      "ward": null
+    },
+    "水上村": {
+      "city": "水上村",
+      "ward": null
+    },
+    "相良村": {
+      "city": "相良村",
+      "ward": null
+    },
+    "五木村": {
+      "city": "五木村",
+      "ward": null
+    },
+    "山江村": {
+      "city": "山江村",
+      "ward": null
+    },
+    "球磨村": {
+      "city": "球磨村",
+      "ward": null
+    },
+    "あさぎり町": {
+      "city": "あさぎり町",
+      "ward": null
+    },
+    "水俣市": {
+      "city": "水俣市",
+      "ward": null
+    },
+    "上天草市": {
+      "city": "上天草市",
+      "ward": null
+    },
+    "天草市": {
+      "city": "天草市",
+      "ward": null
+    },
+    "芦北町": {
+      "city": "芦北町",
+      "ward": null
+    },
+    "津奈木町": {
+      "city": "津奈木町",
+      "ward": null
+    },
+    "苓北町": {
+      "city": "苓北町",
+      "ward": null
+    }
+  },
+  "大分県": {
+    "中津市": {
+      "city": "中津市",
+      "ward": null
+    },
+    "豊後高田市": {
+      "city": "豊後高田市",
+      "ward": null
+    },
+    "宇佐市": {
+      "city": "宇佐市",
+      "ward": null
+    },
+    "国東市": {
+      "city": "国東市",
+      "ward": null
+    },
+    "姫島村": {
+      "city": "姫島村",
+      "ward": null
+    },
+    "大分市": {
+      "city": "大分市",
+      "ward": null
+    },
+    "別府市": {
+      "city": "別府市",
+      "ward": null
+    },
+    "臼杵市": {
+      "city": "臼杵市",
+      "ward": null
+    },
+    "津久見市": {
+      "city": "津久見市",
+      "ward": null
+    },
+    "杵築市": {
+      "city": "杵築市",
+      "ward": null
+    },
+    "由布市": {
+      "city": "由布市",
+      "ward": null
+    },
+    "日出町": {
+      "city": "日出町",
+      "ward": null
+    },
+    "佐伯市": {
+      "city": "佐伯市",
+      "ward": null
+    },
+    "豊後大野市": {
+      "city": "豊後大野市",
+      "ward": null
+    },
+    "日田市": {
+      "city": "日田市",
+      "ward": null
+    },
+    "竹田市": {
+      "city": "竹田市",
+      "ward": null
+    },
+    "九重町": {
+      "city": "九重町",
+      "ward": null
+    },
+    "玖珠町": {
+      "city": "玖珠町",
+      "ward": null
+    }
+  },
+  "宮崎県": {
+    "延岡市": {
+      "city": "延岡市",
+      "ward": null
+    },
+    "日向市": {
+      "city": "日向市",
+      "ward": null
+    },
+    "西都市": {
+      "city": "西都市",
+      "ward": null
+    },
+    "高鍋町": {
+      "city": "高鍋町",
+      "ward": null
+    },
+    "新富町": {
+      "city": "新富町",
+      "ward": null
+    },
+    "木城町": {
+      "city": "木城町",
+      "ward": null
+    },
+    "川南町": {
+      "city": "川南町",
+      "ward": null
+    },
+    "宮崎都農町": {
+      "city": "都農町",
+      "ward": null
+    },
+    "門川町": {
+      "city": "門川町",
+      "ward": null
+    },
+    "西米良村": {
+      "city": "西米良村",
+      "ward": null
+    },
+    "諸塚村": {
+      "city": "諸塚村",
+      "ward": null
+    },
+    "椎葉村": {
+      "city": "椎葉村",
+      "ward": null
+    },
+    "宮崎美郷町": {
+      "city": "美郷町",
+      "ward": null
+    },
+    "高千穂町": {
+      "city": "高千穂町",
+      "ward": null
+    },
+    "日之影町": {
+      "city": "日之影町",
+      "ward": null
+    },
+    "五ヶ瀬町": {
+      "city": "五ヶ瀬町",
+      "ward": null
+    },
+    "宮崎市": {
+      "city": "宮崎市",
+      "ward": null
+    },
+    "日南市": {
+      "city": "日南市",
+      "ward": null
+    },
+    "串間市": {
+      "city": "串間市",
+      "ward": null
+    },
+    "国富町": {
+      "city": "国富町",
+      "ward": null
+    },
+    "綾町": {
+      "city": "綾町",
+      "ward": null
+    },
+    "都城市": {
+      "city": "都城市",
+      "ward": null
+    },
+    "小林市": {
+      "city": "小林市",
+      "ward": null
+    },
+    "えびの市": {
+      "city": "えびの市",
+      "ward": null
+    },
+    "三股町": {
+      "city": "三股町",
+      "ward": null
+    },
+    "高原町": {
+      "city": "高原町",
+      "ward": null
+    }
+  },
+  "鹿児島県": {
+    "鹿児島市": {
+      "city": "鹿児島市",
+      "ward": null
+    },
+    "枕崎市": {
+      "city": "枕崎市",
+      "ward": null
+    },
+    "阿久根市": {
+      "city": "阿久根市",
+      "ward": null
+    },
+    "鹿児島出水市": {
+      "city": "出水市",
+      "ward": null
+    },
+    "指宿市": {
+      "city": "指宿市",
+      "ward": null
+    },
+    "薩摩川内市": {
+      "city": "薩摩川内市",
+      "ward": null
+    },
+    "日置市": {
+      "city": "日置市",
+      "ward": null
+    },
+    "霧島市": {
+      "city": "霧島市",
+      "ward": null
+    },
+    "いちき串木野市": {
+      "city": "いちき串木野市",
+      "ward": null
+    },
+    "南さつま市": {
+      "city": "南さつま市",
+      "ward": null
+    },
+    "南九州市": {
+      "city": "南九州市",
+      "ward": null
+    },
+    "伊佐市": {
+      "city": "伊佐市",
+      "ward": null
+    },
+    "姶良市": {
+      "city": "姶良市",
+      "ward": null
+    },
+    "さつま町": {
+      "city": "さつま町",
+      "ward": null
+    },
+    "長島町": {
+      "city": "長島町",
+      "ward": null
+    },
+    "湧水町": {
+      "city": "湧水町",
+      "ward": null
+    },
+    "鹿屋市": {
+      "city": "鹿屋市",
+      "ward": null
+    },
+    "垂水市": {
+      "city": "垂水市",
+      "ward": null
+    },
+    "曽於市": {
+      "city": "曽於市",
+      "ward": null
+    },
+    "志布志市": {
+      "city": "志布志市",
+      "ward": null
+    },
+    "大崎町": {
+      "city": "大崎町",
+      "ward": null
+    },
+    "東串良町": {
+      "city": "東串良町",
+      "ward": null
+    },
+    "錦江町": {
+      "city": "錦江町",
+      "ward": null
+    },
+    "南大隅町": {
+      "city": "南大隅町",
+      "ward": null
+    },
+    "肝付町": {
+      "city": "肝付町",
+      "ward": null
+    },
+    "鹿児島十島村": {
+      "city": "十島村",
+      "ward": null
+    },
+    "西之表市": {
+      "city": "西之表市",
+      "ward": null
+    },
+    "三島村": {
+      "city": "三島村",
+      "ward": null
+    },
+    "中種子町": {
+      "city": "中種子町",
+      "ward": null
+    },
+    "南種子町": {
+      "city": "南種子町",
+      "ward": null
+    },
+    "屋久島町": {
+      "city": "屋久島町",
+      "ward": null
+    },
+    "奄美市": {
+      "city": "奄美市",
+      "ward": null
+    },
+    "大和村": {
+      "city": "大和村",
+      "ward": null
+    },
+    "宇検村": {
+      "city": "宇検村",
+      "ward": null
+    },
+    "瀬戸内町": {
+      "city": "瀬戸内町",
+      "ward": null
+    },
+    "龍郷町": {
+      "city": "龍郷町",
+      "ward": null
+    },
+    "喜界町": {
+      "city": "喜界町",
+      "ward": null
+    },
+    "徳之島町": {
+      "city": "徳之島町",
+      "ward": null
+    },
+    "天城町": {
+      "city": "天城町",
+      "ward": null
+    },
+    "伊仙町": {
+      "city": "伊仙町",
+      "ward": null
+    },
+    "和泊町": {
+      "city": "和泊町",
+      "ward": null
+    },
+    "知名町": {
+      "city": "知名町",
+      "ward": null
+    },
+    "与論町": {
+      "city": "与論町",
+      "ward": null
+    }
+  },
+  "沖縄県": {
+    "名護市": {
+      "city": "名護市",
+      "ward": null
+    },
+    "国頭村": {
+      "city": "国頭村",
+      "ward": null
+    },
+    "大宜味村": {
+      "city": "大宜味村",
+      "ward": null
+    },
+    "東村": {
+      "city": "東村",
+      "ward": null
+    },
+    "今帰仁村": {
+      "city": "今帰仁村",
+      "ward": null
+    },
+    "本部町": {
+      "city": "本部町",
+      "ward": null
+    },
+    "恩納村": {
+      "city": "恩納村",
+      "ward": null
+    },
+    "宜野座村": {
+      "city": "宜野座村",
+      "ward": null
+    },
+    "金武町": {
+      "city": "金武町",
+      "ward": null
+    },
+    "伊江村": {
+      "city": "伊江村",
+      "ward": null
+    },
+    "粟国村": {
+      "city": "粟国村",
+      "ward": null
+    },
+    "伊平屋村": {
+      "city": "伊平屋村",
+      "ward": null
+    },
+    "伊是名村": {
+      "city": "伊是名村",
+      "ward": null
+    },
+    "那覇市": {
+      "city": "那覇市",
+      "ward": null
+    },
+    "宜野湾市": {
+      "city": "宜野湾市",
+      "ward": null
+    },
+    "浦添市": {
+      "city": "浦添市",
+      "ward": null
+    },
+    "糸満市": {
+      "city": "糸満市",
+      "ward": null
+    },
+    "沖縄市": {
+      "city": "沖縄市",
+      "ward": null
+    },
+    "豊見城市": {
+      "city": "豊見城市",
+      "ward": null
+    },
+    "うるま市": {
+      "city": "うるま市",
+      "ward": null
+    },
+    "南城市": {
+      "city": "南城市",
+      "ward": null
+    },
+    "読谷村": {
+      "city": "読谷村",
+      "ward": null
+    },
+    "嘉手納町": {
+      "city": "嘉手納町",
+      "ward": null
+    },
+    "北谷町": {
+      "city": "北谷町",
+      "ward": null
+    },
+    "北中城村": {
+      "city": "北中城村",
+      "ward": null
+    },
+    "中城村": {
+      "city": "中城村",
+      "ward": null
+    },
+    "西原町": {
+      "city": "西原町",
+      "ward": null
+    },
+    "与那原町": {
+      "city": "与那原町",
+      "ward": null
+    },
+    "南風原町": {
+      "city": "南風原町",
+      "ward": null
+    },
+    "渡嘉敷村": {
+      "city": "渡嘉敷村",
+      "ward": null
+    },
+    "座間味村": {
+      "city": "座間味村",
+      "ward": null
+    },
+    "渡名喜村": {
+      "city": "渡名喜村",
+      "ward": null
+    },
+    "八重瀬町": {
+      "city": "八重瀬町",
+      "ward": null
+    },
+    "久米島町": {
+      "city": "久米島町",
+      "ward": null
+    },
+    "南大東村": {
+      "city": "南大東村",
+      "ward": null
+    },
+    "北大東村": {
+      "city": "北大東村",
+      "ward": null
+    },
+    "宮古島市": {
+      "city": "宮古島市",
+      "ward": null
+    },
+    "多良間村": {
+      "city": "多良間村",
+      "ward": null
+    },
+    "石垣市": {
+      "city": "石垣市",
+      "ward": null
+    },
+    "与那国町": {
+      "city": "与那国町",
+      "ward": null
+    },
+    "竹富町": {
+      "city": "竹富町",
+      "ward": null
+    }
+  }
+}

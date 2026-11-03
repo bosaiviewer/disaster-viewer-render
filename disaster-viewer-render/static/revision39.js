@@ -1,0 +1,12 @@
+ 'use strict';
+function nearestTime39(dates,target){if(!target)return 0;let best=0,distance=Infinity;dates.forEach((date,i)=>{if(!date)return;const d=Math.abs(date-target);if(d<distance||(d===distance&&date>=target)){distance=d;best=i;}});return best;}
+let marineLimit39=30;
+const marineDetail39=el('section',undefined,'marine-detail39');marineDetail39.id='marine-detail39';marineDetail39.hidden=true;$('atmosphere-list').before(marineDetail39);
+function marineField39(name){return ({'URL(html)':'提供元の資料','標高_水深':'標高・水深','設置水深_m':'設置した水深（m）','nameJa':'地点名','nameEn':'英語名','stationCode':'地点番号','description':'発表内容','name':'情報名','緯度(DMS)':'緯度（度・分・秒）','経度':'経度'})[name]||name.replaceAll('_',' ');}
+marineSearch38.addEventListener('input',()=>{marineLimit39=30;renderMarine38();});
+document.addEventListener('toggle',event=>{const node=event.target;if(node.matches?.('.ashfall-section')&&!node.open){node.querySelectorAll('details[open]').forEach(child=>child.open=false);return;}if(!node.matches?.('.ash-report,.ash-period'))return;if(node.open){for(const other of node.parentElement.children){if(other!==node&&other.matches('.'+(node.classList.contains('ash-report')?'ash-report':'ash-period'))&&other.open){other.open=false;other.querySelectorAll('details[open]').forEach(child=>child.open=false);}}}else node.querySelectorAll('details[open]').forEach(child=>child.open=false);},true);
+const snowNote39=el('p','降雪量は、表示時刻までの積算値です。6～72時間は積算する長さを選ぶもので、予想の先の長さではありません。','caption');$('atmosphere-layer').closest('label').after(snowNote39);const noteSnow39=()=>snowNote39.hidden=!menu38.value.startsWith('snow-fall');menu38.addEventListener('change',noteSnow39);noteSnow39();
+
+let imageChoice39=null;
+const showImage39=showWeatherChart;showWeatherChart=function(){showImage39();const g=weatherChartData?.groups?.find(g=>g.id===$('chart-kind').value),r=g?.items?.find(r=>r.file===$('chart-time').value);if(r)imageChoice39={group:g.id,time:r.validTime};};
+const choices39=renderWeatherChartChoices;renderWeatherChartChoices=function(){const keep=imageChoice39;choices39();if(!keep)return;const group=weatherChartData?.groups?.find(g=>g.id===keep.group);if(!group?.items?.length)return;$('chart-kind').value=group.id;renderWeatherChartTimes();const index=nearestTime39(group.items.map(r=>barDate33(r.validTime)),barDate33(keep.time));$('chart-time').selectedIndex=index;imageScrub.value=String(index);showWeatherChart();};

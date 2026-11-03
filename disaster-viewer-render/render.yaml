@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: disaster-viewer-preview
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements-render.txt
+    startCommand: gunicorn -c gunicorn_conf56.py cloud_entry56:app
+    healthCheckPath: /healthz
+    envVars:
+      - key: EV_CLOUD_ACCESS
+        value: private
+      - key: EV_PREVIEW_PASSWORD
+        sync: false
+      - key: EV_DATA_DIR
+        value: /tmp/disaster-viewer56
+      - key: EV_WOLFX_MODE
+        value: private

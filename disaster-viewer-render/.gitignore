@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+instance/
+.env
+.env.*
+*.sqlite*
+*.db
+*.log
+*.pem
+*.key
+node_modules/
+.wrangler/
+config.json
+secrets-upload.json

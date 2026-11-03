@@ -1,0 +1,5 @@
+"use strict";
+// Applied only to the spoken text. Keep display names and published text unchanged.
+const speechPlaceReadings={遠地地震:'えんちじしん',八重山:'やえやま',西表島:'いりおもてじま',与那国島:'よなぐにじま',与那国:'よなぐに',宮古島:'みやこじま',石垣島:'いしがきじま',日向灘:'ひゅうがなだ',豊後水道:'ぶんごすいどう',奄美大島:'あまみおおしま',種子島:'たねがしま',択捉島:'えとろふとう',国後島:'くなしりとう'};
+function speechReading(raw){let text=String(raw??'').normalize('NFKC');for(const [place,reading]of Object.entries(speechPlaceReadings).sort((a,b)=>b[0].length-a[0].length))text=text.replaceAll(place,reading);return text.replace(/(\d+(?:\.\d+)?)\s*km\s*\/\s*h/gi,'時速$1キロメートル').replace(/cm\s*\/\s*s/gi,'センチメートル毎秒').replace(/m\s*\/\s*s/gi,'メートル毎秒').replace(/km/gi,'キロメートル').replace(/cm/gi,'センチメートル').replace(/(\d+(?:\.\d+)?)\s*m(?=$|[^A-Za-z])/g,'$1メートル').replace(/hPa/gi,'ヘクトパスカル').replace(/\bM\s*(\d+(?:\.\d+)?)/g,'マグニチュード$1').replace(/([56])弱/g,'$1じゃく').replace(/([56])強/g,'$1きょう');}
+function applyJapaneseVoice(utterance){utterance.lang='ja-JP';const voices=window.speechSynthesis?.getVoices?.()||[];const voice=voices.find(v=>/^ja(?:-|$)/i.test(v.lang)&&v.localService)||voices.find(v=>/^ja(?:-|$)/i.test(v.lang));if(voice)utterance.voice=voice;}

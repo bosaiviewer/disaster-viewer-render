@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="180" viewBox="0, 0, 276, 540">
+    <path d="M24 38 h 90 v 60 h -90 z"  fill="rgb(180,000,104)" stroke="none" opacity=".75" />
+    <path d="M24 98 h 90 v 60 h -90 z"  fill="rgb(255,040,000)" stroke="none" opacity=".75" />
+    <path d="M24 158 h 90 v 60 h -90 z" fill="rgb(255,153,000)" stroke="none" opacity=".75" />
+    <path d="M24 218 h 90 v 60 h -90 z" fill="rgb(255,245,000)" stroke="none" opacity=".75" />
+    <path d="M24 278 h 90 v 60 h -90 z" fill="rgb(000,065,255)" stroke="none" opacity=".75" />
+    <path d="M24 338 h 90 v 60 h -90 z" fill="rgb(033,140,255)" stroke="none" opacity=".75" />
+    <path d="M24 398 h 90 v 60 h -90 z" fill="rgb(160,210,255)" stroke="none" opacity=".75" />
+    <path d="M24 458 h 90 v 60 h -90 z" fill="rgb(240,240,248)" stroke="none" opacity=".75" />
+    <path d="M24 38 h 90 v 480 h -90 z M24 98 h 90 M24 158 h 90 M24 218 h 90 M24 278 h 90 M24 338 h 90 M24 398 h 90 M24 458 h 90"  fill="none" stroke="#444" stroke-width="2" />
+    <text x="126" y="38"  font-family="Verdana" font-size="32">cm/24h</text>
+    <text x="126" y="114" font-family="Verdana" font-size="36">70</text>
+    <text x="126" y="174" font-family="Verdana" font-size="36">60</text>
+    <text x="126" y="234" font-family="Verdana" font-size="36">50</text>
+    <text x="126" y="294" font-family="Verdana" font-size="36">40</text>
+    <text x="126" y="354" font-family="Verdana" font-size="36">30</text>
+    <text x="126" y="414" font-family="Verdana" font-size="36">20</text>
+    <text x="126" y="474" font-family="Verdana" font-size="36">10</text>
+</svg>

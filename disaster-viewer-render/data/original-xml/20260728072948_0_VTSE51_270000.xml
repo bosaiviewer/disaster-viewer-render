@@ -1,0 +1,131 @@
+<Report xmlns="http://xml.kishou.go.jp/jmaxml1/" xmlns:jmx="http://xml.kishou.go.jp/jmaxml1/">
+<Control>
+	<Title>津波情報a</Title>
+	<DateTime>2026-07-28T07:29:48Z</DateTime>
+	<Status>通常</Status>
+	<EditorialOffice>大阪管区気象台</EditorialOffice>
+	<PublishingOffice>気象庁</PublishingOffice>
+</Control>
+<Head xmlns="http://xml.kishou.go.jp/jmaxml1/informationBasis1/">
+	<Title>各地の満潮時刻・津波到達予想時刻に関する情報</Title>
+	<ReportDateTime>2026-07-28T16:29:00+09:00</ReportDateTime>
+	<TargetDateTime>2026-07-28T16:29:00+09:00</TargetDateTime>
+	<EventID>20260728162718</EventID>
+	<InfoType>発表</InfoType>
+	<Serial>1</Serial>
+	<InfoKind>津波情報</InfoKind>
+	<InfoKindVersion>1.0_1</InfoKindVersion>
+	<Headline>
+		<Text>各地の満潮時刻と津波到達予想時刻をお知らせします。</Text>
+	</Headline>
+</Head>
+<Body xmlns="http://xml.kishou.go.jp/jmaxml1/body/seismology1/" xmlns:jmx_eb="http://xml.kishou.go.jp/jmaxml1/elementBasis1/">
+	<Tsunami>
+		<Forecast>
+			<CodeDefine>
+				<Type xpath="Item/Area/Code">津波予報区</Type>
+				<Type xpath="Item/Category/Kind/Code">警報等情報要素／津波警報・注意報・予報</Type>
+				<Type xpath="Item/Category/LastKind/Code">警報等情報要素／津波警報・注意報・予報</Type>
+				<Type xpath="Item/Station/Code">潮位観測点</Type>
+			</CodeDefine>
+			<Item>
+				<Area><Name>有明・八代海</Name><Code>712</Code></Area>
+				<Category>
+					<Kind><Name>津波注意報</Name><Code>62</Code></Kind>
+					<LastKind><Name>津波なし</Name><Code>00</Code></LastKind>
+				</Category>
+				<FirstHeight>
+					<Condition>津波到達中と推測</Condition>
+				</FirstHeight>
+				<MaxHeight>
+					<jmx_eb:TsunamiHeight type="津波の高さ" unit="m" description="１ｍ">1</jmx_eb:TsunamiHeight>
+				</MaxHeight>
+				<Station><Name>大牟田市三池</Name><Code>71201</Code>
+					<HighTideDateTime>2026-07-28T21:04:00+09:00</HighTideDateTime>
+					<FirstHeight>
+						<ArrivalTime>2026-07-28T17:00:00+09:00</ArrivalTime>
+					</FirstHeight>
+				</Station>
+				<Station><Name>太良町大浦野崎</Name><Code>71202</Code>
+					<HighTideDateTime>2026-07-28T21:09:00+09:00</HighTideDateTime>
+					<FirstHeight>
+						<ArrivalTime>2026-07-28T17:00:00+09:00</ArrivalTime>
+					</FirstHeight>
+				</Station>
+				<Station><Name>三角</Name><Code>71203</Code>
+					<HighTideDateTime>2026-07-28T20:53:00+09:00</HighTideDateTime>
+					<FirstHeight>
+						<Condition>津波到達中と推測</Condition>
+					</FirstHeight>
+				</Station>
+				<Station><Name>島原港</Name><Code>71204</Code>
+					<HighTideDateTime>2026-07-28T21:09:00+09:00</HighTideDateTime>
+					<FirstHeight>
+						<ArrivalTime>2026-07-28T17:10:00+09:00</ArrivalTime>
+					</FirstHeight>
+				</Station>
+				<Station><Name>八代港</Name><Code>71220</Code>
+					<HighTideDateTime>2026-07-28T20:53:00+09:00</HighTideDateTime>
+					<FirstHeight>
+						<Condition>津波到達中と推測</Condition>
+					</FirstHeight>
+				</Station>
+				<Station><Name>天草市本渡港</Name><Code>71221</Code>
+					<HighTideDateTime>2026-07-28T20:49:00+09:00</HighTideDateTime>
+					<FirstHeight>
+						<ArrivalTime>2026-07-28T17:00:00+09:00</ArrivalTime>
+					</FirstHeight>
+				</Station>
+				<Station><Name>熊本港</Name><Code>71222</Code>
+					<HighTideDateTime>2026-07-28T21:01:00+09:00</HighTideDateTime>
+					<FirstHeight>
+						<Condition>津波到達中と推測</Condition>
+					</FirstHeight>
+				</Station>
+			</Item>
+			<Item>
+				<Area><Name>長崎県西方</Name><Code>730</Code></Area>
+				<Category>
+					<Kind><Name>津波予報（若干の海面変動）</Name><Code>71</Code></Kind>
+					<LastKind><Name>津波なし</Name><Code>00</Code></LastKind>
+				</Category>
+				<MaxHeight>
+					<jmx_eb:TsunamiHeight type="津波の高さ" unit="m" description="０．２ｍ未満">0.2</jmx_eb:TsunamiHeight>
+				</MaxHeight>
+			</Item>
+			<Item>
+				<Area><Name>熊本県天草灘沿岸</Name><Code>740</Code></Area>
+				<Category>
+					<Kind><Name>津波予報（若干の海面変動）</Name><Code>71</Code></Kind>
+					<LastKind><Name>津波なし</Name><Code>00</Code></LastKind>
+				</Category>
+				<MaxHeight>
+					<jmx_eb:TsunamiHeight type="津波の高さ" unit="m" description="０．２ｍ未満">0.2</jmx_eb:TsunamiHeight>
+				</MaxHeight>
+			</Item>
+		</Forecast>
+	</Tsunami>
+	<Earthquake>
+		<OriginTime>2026-07-28T16:27:00+09:00</OriginTime>
+		<ArrivalTime>2026-07-28T16:27:00+09:00</ArrivalTime>
+		<Hypocenter>
+			<Area>
+				<Name>熊本県熊本地方</Name>
+				<Code type="震央地名">741</Code>
+				<jmx_eb:Coordinate description="北緯３２．６度　東経１３０．７度　深さ　１０ｋｍ">+32.6+130.7-10000/</jmx_eb:Coordinate>
+				<NameFromMark>長崎の東８０ｋｍ付近</NameFromMark>
+				<MarkCode type="震央補助">705</MarkCode>
+				<Direction>東</Direction>
+				<Distance unit="km">80</Distance>
+			</Area>
+		</Hypocenter>
+		<jmx_eb:Magnitude type="Mj" description="Ｍ７．１">7.1</jmx_eb:Magnitude>
+	</Earthquake>
+	<Comments>
+		<WarningComment codeType="固定付加文">
+			<Text>津波と満潮が重なると、津波はより高くなりますので十分な注意が必要です。</Text>
+			<Code>0110</Code>
+		</WarningComment>
+	</Comments>
+</Body>
+</Report>

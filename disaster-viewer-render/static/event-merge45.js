@@ -1,0 +1,8 @@
+'use strict';
+function mergeLiveReports45(group){
+ const ordered=group.slice().sort((a,b)=>(liveDate(a.time)?.getTime()||0)-(liveDate(b.time)?.getTime()||0));let quake={},points=[],observed=null;const merged={};
+ for(const row of ordered){Object.assign(merged,row);const next=row.earthquake||{},hyp={...(quake.hypocenter||{})};for(const [key,value]of Object.entries(next.hypocenter||{}))if(value!==null&&value!==undefined&&value!==''&&(!(typeof value==='number')||value>=0||key==='latitude'||key==='longitude'))hyp[key]=value;const scale=Number(next.maxScale);quake={...quake,...next,hypocenter:hyp,maxScale:next.maxScale!==null&&next.maxScale!==undefined&&Number.isFinite(scale)&&scale>=0?scale:quake.maxScale??-1};if(row.points?.length){points=row.points;observed=row;}else if(row.stations?.length||row.regions?.length)observed=row;}
+ merged.earthquake=quake;merged.points=points;merged.memberIds=group.map(r=>r.id);if(observed&&observed.id!==merged.id)merged.intensitySource={id:observed.id,time:observed.time};
+ const cached=ordered.slice().reverse().map(r=>liveStations.get(r.id)).find(s=>s?.points?.length||s?.regions?.length);if(cached&&!liveStations.get(merged.id)?.points?.length&&!liveStations.get(merged.id)?.regions?.length)liveStations.set(merged.id,cached);
+ if(merged.stations?.length||merged.regions?.length)liveStations.set(merged.id,{points:merged.stations?.length?merged.stations:cached?.points||[],regions:merged.regions?.length?merged.regions:cached?.regions||[]});const observation=liveStations.get(merged.id);if(!(merged.earthquake.maxScale>=0)&&observation)merged.earthquake.maxScale=Math.max(-1,...(observation.points||[]).map(p=>Number(p.scaleCode)),...(observation.regions||[]).map(p=>Number(p.scaleCode)));return merged;
+}

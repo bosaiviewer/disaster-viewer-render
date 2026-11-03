@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="82" viewBox="0, 0, 252, 246">
+    <path d="M24 38 h 90 v 60 h -90 z"  fill="rgb(000,065,255)" stroke="none" opacity=".75" />
+    <path d="M24 98 h 90 v 60 h -90 z"  fill="rgb(033,140,255)" stroke="none" opacity=".75" />
+    <path d="M24 158 h 90 v 60 h -90 z" fill="rgb(160,210,255)" stroke="none" opacity=".75" />
+    <path d="M24 38 h 90 v 180 h -90 z M24 98 h 90 M24 158 h 90"  fill="none" stroke="#444" stroke-width="2" />
+    <text x="126" y="38"  font-family="Verdana" font-size="32">cm/3h</text>
+    <text x="126" y="114" font-family="Verdana" font-size="36">6</text>
+    <text x="126" y="174" font-family="Verdana" font-size="36">3</text>
+    <text x="126" y="234" font-family="Verdana" font-size="36">1</text>
+</svg>

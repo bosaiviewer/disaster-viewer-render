@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="108" viewBox="0, 0, 192, 324">
+    <text x="12" y="48" font-family="Verdana" font-size="36">雷活動度</text>
+    <path d="M24 72 h 90 v 60 h -90 z"  fill="rgb(200,000,255)" stroke="none" opacity=".75" />
+    <path d="M24 132 h 90 v 60 h -90 z" fill="rgb(255,040,000)" stroke="none" opacity=".75" />
+    <path d="M24 192 h 90 v 60 h -90 z" fill="rgb(255,170,000)" stroke="none" opacity=".75" />
+    <path d="M24 252 h 90 v 60 h -90 z" fill="rgb(255,245,000)" stroke="none" opacity=".75" />
+    <path d="M24 72 h 90 v 240 h -90 z M24 132 h 90 M24 192 h 90 M24 252 h 90"  fill="none" stroke="#444" stroke-width="2" />
+    <text x="126" y="118" font-family="Verdana" font-size="36">４</text>
+    <text x="126" y="178" font-family="Verdana" font-size="36">３</text>
+    <text x="126" y="238" font-family="Verdana" font-size="36">２</text>
+    <text x="126" y="298" font-family="Verdana" font-size="36">１</text>
+</svg>

@@ -1,0 +1,86 @@
+<Report xmlns="http://xml.kishou.go.jp/jmaxml1/" xmlns:jmx="http://xml.kishou.go.jp/jmaxml1/">
+<Control>
+	<Title>津波警報・注意報・予報a</Title>
+	<DateTime>2026-07-03T04:14:25Z</DateTime>
+	<Status>通常</Status>
+	<EditorialOffice>大阪管区気象台</EditorialOffice>
+	<PublishingOffice>気象庁</PublishingOffice>
+</Control>
+<Head xmlns="http://xml.kishou.go.jp/jmaxml1/informationBasis1/">
+	<Title>津波予報</Title>
+	<ReportDateTime>2026-07-03T13:14:00+09:00</ReportDateTime>
+	<TargetDateTime>2026-07-03T13:14:00+09:00</TargetDateTime>
+	<ValidDateTime>2026-07-03T17:00:00+09:00</ValidDateTime>
+	<EventID>20260703130504</EventID>
+	<InfoType>発表</InfoType>
+	<Serial/>
+	<InfoKind>津波警報・注意報・予報</InfoKind>
+	<InfoKindVersion>1.0_1</InfoKindVersion>
+	<Headline>
+		<Text>津波予報（若干の海面変動）を発表しました。</Text>
+	</Headline>
+</Head>
+<Body xmlns="http://xml.kishou.go.jp/jmaxml1/body/seismology1/" xmlns:jmx_eb="http://xml.kishou.go.jp/jmaxml1/elementBasis1/">
+	<Tsunami>
+	<Forecast>
+		<CodeDefine>
+			<Type xpath="Item/Area/Code">津波予報区</Type>
+			<Type xpath="Item/Category/Kind/Code">警報等情報要素／津波警報・注意報・予報</Type>
+			<Type xpath="Item/Category/LastKind/Code">警報等情報要素／津波警報・注意報・予報</Type>
+		</CodeDefine>
+		<Item>
+			<Area><Name>沖縄本島地方</Name><Code>800</Code></Area>
+			<Category>
+				<Kind><Name>津波予報（若干の海面変動）</Name><Code>71</Code></Kind>
+				<LastKind><Name>津波なし</Name><Code>00</Code></LastKind>
+			</Category>
+			<MaxHeight>
+				<jmx_eb:TsunamiHeight type="津波の高さ" unit="m" description="０．２ｍ未満">0.2</jmx_eb:TsunamiHeight>
+			</MaxHeight>
+		</Item>
+		<Item>
+			<Area><Name>宮古島・八重山地方</Name><Code>802</Code></Area>
+			<Category>
+				<Kind><Name>津波予報（若干の海面変動）</Name><Code>71</Code></Kind>
+				<LastKind><Name>津波なし</Name><Code>00</Code></LastKind>
+			</Category>
+			<MaxHeight>
+				<jmx_eb:TsunamiHeight type="津波の高さ" unit="m" description="０．２ｍ未満">0.2</jmx_eb:TsunamiHeight>
+			</MaxHeight>
+		</Item>
+	</Forecast>
+	</Tsunami>
+	<Earthquake>
+		<OriginTime>2026-07-03T13:04:00+09:00</OriginTime>
+		<ArrivalTime>2026-07-03T13:05:00+09:00</ArrivalTime>
+		<Hypocenter>
+			<Area>
+				<Name>宮古島北西沖</Name>
+				<Code type="震央地名">859</Code>
+				<jmx_eb:Coordinate description="北緯２６．０度　東経１２５．８度　ごく浅い">+26.0+125.8+0/</jmx_eb:Coordinate>
+				<NameFromMark>那覇の西１９０ｋｍ付近</NameFromMark>
+				<MarkCode type="震央補助">800</MarkCode>
+				<Direction>西</Direction>
+				<Distance unit="km">190</Distance>
+			</Area>
+		</Hypocenter>
+		<jmx_eb:Magnitude type="Mj" description="Ｍ６．４">6.4</jmx_eb:Magnitude>
+	</Earthquake>
+	<Text>　これらの沿岸では今後２、３時間程度は若干の海面変動が継続する可能性が高いと考えられます。
+</Text>
+	<Comments>
+		<WarningComment codeType="固定付加文">
+			<Text>＜津波予報（若干の海面変動）＞
+若干の海面変動が予想されますが、被害の心配はありません。</Text>
+			<Code>0124</Code>
+		</WarningComment>
+		<FreeFormComment>［予想される津波の高さの解説］
+予想される津波が高いほど、より甚大な被害が生じます。
+１０ｍ超　　巨大な津波が襲い壊滅的な被害が生じる。木造家屋が全壊・流失し、人は津波による流れに巻き込まれる。
+１０ｍ　　　巨大な津波が襲い甚大な被害が生じる。木造家屋が全壊・流失し、人は津波による流れに巻き込まれる。
+　５ｍ　　　津波が襲い甚大な被害が生じる。木造家屋が全壊・流失し、人は津波による流れに巻き込まれる。
+　３ｍ　　　標高の低いところでは津波が襲い被害が生じる。木造家屋で浸水被害が発生し、人は津波による流れに巻き込まれる。
+　１ｍ　　　海の中では人は速い流れに巻き込まれる。養殖いかだが流失し小型船舶が転覆する。</FreeFormComment>
+	</Comments>
+</Body>
+</Report>
